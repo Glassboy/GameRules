@@ -1,0 +1,55 @@
+# New Unit Profiles
+## Black Powder Weapons
+To use field units such as Imperial Handgunners or Dwarf Thunderers add the Blackpowder [fantastical rule](Fantastical%20Rules.mkd) to existing missile unit profiles.
+
+## War Machine Profiles
+A war machine functions in the same way as any other units, except for a few exceptions. 
+### Firing Arc
+Once a war machine is deployed it is difficult to pivot or move quickly.  A war machine has a 90 degree firing arc measured from the front of its frame.  To change the firing arc the ballista must be limbered and moved with a Move action.
+### Casualties
+Casualties are caused to the war machine’s crew not to the war machine itself.  The war machine will shoot with 12 dice if the crew is above half is starting strength, and 6 dice if at half strength or below.  By default a war machine has a crew of three.
+
+### Ballista
+Ballistas represent any form of bolt thrower or large missile weapon, or even a large tree throwing its branches.  The crew are generally lightly armoured and  only armed with the tools of their trade.  
+
+| Unit Name| Ballista| Points              | 3        |
+|:---------|:--------|:--------------------|:---------|
+| Attack   | -       | Attack Value        | -        |
+| Move     | 6+      | Defence Value       | 5+       |
+| Shoot    | 7+      | Shoot value / Range | 4+ / 18" |
+| Courage  | 4+      | Maximum Movement    | 6"       |
+| Armour   | 2       | Strength Points     | 6        |
+
+
+**Special Rules**
+
+None
+
+**Options**
+
+  * Engineer @ 2 pt per unit:  The war machine’s crew includes an engineer and the Shoot value of the unit increases to 3+.
+  * Extra crew @ 1 point per unit:  The war machine has double the normal sized crew and is capable of attacking hand to hand.  The unit gains Attack 7+, Attack Value 5+.
+  * Pavise @ 1 point per unit:  The warmachine is protected by pavises (these must be modelled).  Armour becomes 3 against shooting.
+  * Any 'Fantastical Rules', except Spellcaster, Summoner, and Cleric/Slayer.
+
+### Catapult
+Catapults represent any form of rock throwing device.  The crew are generally lightly armoured and armed with the tools of their trade.
+
+| Unit Name| Catapult | Points              | 4             |
+|:---------|:---------|:--------------------|:--------------|
+| Attack   | -        | Attack Value        | -             |
+| Move     | 6+       | Defence Value       | 5+            |
+| Shoot    | 7+       | Shoot value / Range | 4+ / 6" to 36"|
+| Courage  | 4+       | Maximum Movement    | 6"            |
+| Armour   | 2        | Strength Points     | 6             |
+
+**Special Rules**
+
+* **Lobber**:  A catapult’s range starts a 6” from the front of the model and ends at 36”.  There are no penalties for long range.  The unit may ignore normal line of sight rules and fire at any unit, as long as one of the units in the army can see that enemy unit.
+
+**Options**
+
+* Engineer @ 2 pt per unit:  The war machine’s crew includes an engineer and the Shoot value of the unit increases to 3+.
+* Extra crew @ 1 point per unit:  The war machine has double the normal sized crew and is capable of attacking hand to hand.  The unit gains Attack 7+, Attack Value 5+
+* Pavise @ 1 point per unit:  The warmachine is protected by pavises (these must be modelled).  Armour becomes 3 against shooting.
+* Any 'Fantastical Rules', except Spellcaster, Summoner, and Cleric/Slayer.

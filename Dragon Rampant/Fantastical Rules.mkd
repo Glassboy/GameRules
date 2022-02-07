@@ -12,10 +12,32 @@ A unit armed with black powder weapons has a range of 12”, however at a range 
 
 NB:  Units such as Long Rifles are better represented by *Light Missiles* + *Sharpshooter*.  Mounted units with pistols can use the standard *Mounted Missiles* rule.
 
-## High tech armour
-**Cost:  0 points (Eru-kin purebloods only)**
+## Demon Weapon
+**Cost 2 points (restricted to Leader only)**
 
-The Eru-kin Purebreeds retain much of their armoured space suits.  While they are no longer powered they are constructed of material much lighter than conventional heavy armour.  The maximum movement for a Pureblood is 8”.
+Any hits inflicted during Attacks are rounded up. (As per Undead: no feelings)
+
+## Folk Hero / Holy man {#FolkHero}
+**Cost: 1 point **
+
+Any unit except ravenous hordes or units with Undead fantastical rule, may replace one ordinary miniature in the unit with a special character, who moves and fights like any other miniature in the unit, and should be the last miniature removed.
+
+Units with a Folk Hero / Holy man gain a +1 to courage tests (in the same way as, and in addition to, being within 12” of their Leader – see page 11 of the rulebook).  Folk Hero can not be combined with the [Vexilla](#Vexilla) (Battle Standard) fantastical rule.
+
+## High tech armour
+**Cost:  0 points (Alien Elites only)**
+
+Alien Elites retain much of their armoured space suits.  While they are no longer powered they are constructed of material much lighter than conventional heavy armour.  The maximum movement in high tech armour is 8”.
+
+## Living gun
+**Cost:  2 points (war machine only)**
+
+The war machine is a living beast.  It has no crew, has Attack 7+, Attack Value 5+, Move 6+ and a Maximum Movement of 6”.  It can not take any of the options for that unit.
+
+## Musician
+**Cost: 1pt**
+
+Units may be deployed with a musician to improve communication and morale.  A Muscian allows a +1 to any Move, Attack, or Shoot order given to the unit.  The Musician must be modeled (and should be placed in the front rank of the unit alongside any standard.
 
 ## Regeneration
 **Cost: 3 points**
@@ -45,3 +67,14 @@ Serpents are, well, snakes. They are able to slither, climb, and swim where othe
 **Cost:  4 Points**
 
 A Tech Mage has at their disposal a selection of technology that functions to the primitive eye in the same way as a Spell-caster's spells do; follow the rules for casting a spell but attribute the effect to one of the Tech Mage’s gadgets.
+
+## Vexilla (Battle Standard) {#Vexilla}
+**Cost: 1 Point**
+
+The army may be deployed with a flags, icons, or relics[^1] as inspiration to its members (referred to as a standard from this point onwards).  The standard should be clearly visible on or with the miniature and must be distinct from any feature or decoration on any other miniature in the unit. 
+
+The standard bearer must be placed in the middle of the front rank of a unit (or deployed as a single model unit if you really want).  The miniature with the standard is the last miniature to be removed as a causality. 
+
+Gain a +1 to courage tests (in the same way as, and in addition to, being within 12” of their Leader – see page 11 of the rulebook).  Vexilla (Battle Standard) can not be combined with the [Folk Hero](#FolkHero) fantastical rule.
+
+[^1]: Such as the severed head of a particularly fierce foe.
