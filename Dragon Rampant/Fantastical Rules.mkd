@@ -31,6 +31,11 @@ With a bit of thought both are achievable in Dragon Rampant using a new fantasti
 * The unit can attempt to regenerate strength points lost in one attack per turn, and makes the roll directly after the strength points are lost.
 * When the unit falls below zero strength points and has strength points that can be regenerated (i.e. not caused by fire) the player can chose to activate the unit and make a regeneration roll. If an attacker chooses to target the pieces of the troll that are trying to reassemble, the troll should be considered to have a defense value of zero.
 
+## Slither
+**Cost: 1 point (Serpent species only)**
+
+Serpents are, well, snakes. They are able to slither, climb, and swim where other creatures become stuck or bogged down. This unit does not halve its movement its movement in rough terrain (as Fleetfooted) and Impassable terrain only counts as Rough (halving movement)
+
 ## Tech Mage
 **Cost:  4 Points**
 
