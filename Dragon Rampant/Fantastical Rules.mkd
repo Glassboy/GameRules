@@ -1,5 +1,10 @@
 # Fantastical Rules
 
+## Animated
+**Cost:  1 points (war machine only)**
+
+The war machine has been animated and has a Move of 6+ and a Maximum Movement of 6”.
+
 ## Black Powder Weapons
 **Cost: 0 points (mounted and foot units only)**
 
