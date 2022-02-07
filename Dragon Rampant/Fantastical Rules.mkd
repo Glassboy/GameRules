@@ -1,0 +1,37 @@
+# Fantastical Rules
+
+## Black Powder Weapons
+**Cost: 0 points (mounted and foot units only)**
+
+A unit armed with black powder weapons has a range of 12”, however at a range of 6” or less the target suffers a -1 to armour.
+
+NB:  Units such as Long Rifles are better represented by *Light Missiles* + *Sharpshooter*.  Mounted units with pistols can use the standard *Mounted Missiles* rule.
+
+## High tech armour
+**Cost:  0 points (Eru-kin purebloods only)**
+
+The Eru-kin Purebreeds retain much of their armoured space suits.  While they are no longer powered they are constructed of material much lighter than conventional heavy armour.  The maximum movement for a Pureblood is 8”.
+
+## Regeneration
+**Cost: 3 points**
+
+Vanilla <a href="https://ospreypublishing.com/dragon-rampant" rel="nofollow" target="_blank">Dragon Rampant</a> lacks a fantastical rule useful for fielding trolls.  If we ignore what other games have done with trolls and look at fantasy literature - the inspiration for many people's armies - we get two basic styles of trolls.  Tom, Bert, and William ("Bill") Huggins the stone trolls that <a href="https://en.wikipedia.org/wiki/The_Hobbit" rel="nofollow" target="_blank">the Hobbit</a> Bilbo Baggins encountered in the Trollshaws and the regenerating troll from Poul Anderson's <a href="https://en.wikipedia.org/wiki/Three_Hearts_and_Three_Lions" rel="nofollow" target="_blank">Three Hearts and Three Lions</a>, which is the inspiration for trolls in <a href="https://en.wikipedia.org/wiki/Dungeons_%26_Dragons#Original_game" rel="nofollow" target="_blank">Dungeons and Dragons</a>.
+
+With a bit of thought both are achievable in Dragon Rampant using a new fantastical rule. Creatures like Trolls regenerate damage from all attacks except for fire. When the unit has lost strength points, once per turn, roll a die and on a 5 or a 6 the unit recovers 1 strength point.
+
+*For a Tolkien style troll*
+
+  * Give each troll type a vulnerability (eg. sunlight for stone trolls, fire for hill trolls), the loss of strength points is permanent and unable to be regenerated if done with the force the troll is vulnerable to. This can be tracked using two dice.
+  * The recovery roll is made when the unit is activated.
+  * At zero or lower strength points the unit is dead and can not regenerate.
+
+*For a Poul Anderson style troll (a troll that attempts to reassemble itself even when decapitated), a different approach is required.*
+
+* Strength points lost from fire damage are permanently lost and can not be regenerated. All other strength points lost may be recovered even if the unit drops below zero strength points; this represents the hacked off limbs trying to crawl back together.
+* The unit can attempt to regenerate strength points lost in one attack per turn, and makes the roll directly after the strength points are lost.
+* When the unit falls below zero strength points and has strength points that can be regenerated (i.e. not caused by fire) the player can chose to activate the unit and make a regeneration roll. If an attacker chooses to target the pieces of the troll that are trying to reassemble, the troll should be considered to have a defense value of zero.
+
+## Tech Mage
+**Cost:  4 Points**
+
+A Tech Mage has at their disposal a selection of technology that functions to the primitive eye in the same way as a Spell-caster's spells do; follow the rules for casting a spell but attribute the effect to one of the Tech Mage’s gadgets.
