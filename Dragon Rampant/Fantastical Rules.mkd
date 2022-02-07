@@ -75,6 +75,6 @@ The army may be deployed with a flags, icons, or relics[^1] as inspiration to it
 
 The standard bearer must be placed in the middle of the front rank of a unit (or deployed as a single model unit if you really want).  The miniature with the standard is the last miniature to be removed as a causality. 
 
-Gain a +1 to courage tests (in the same way as, and in addition to, being within 12” of their Leader – see page 11 of the rulebook).  Vexilla (Battle Standard) can not be combined with the Folk Hero fantastical rule.
+Gain a +1 to courage tests (in the same way as, and in addition to, being within 12” of their Leader – see page 11 of the rulebook).  Vexilla (Battle Standard) can not be combined with the [Folk Hero](#folk-hero--holy-man) fantastical rule.
 
 [^1]: Such as the severed head of a particularly fierce foe.
