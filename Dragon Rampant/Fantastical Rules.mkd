@@ -22,7 +22,7 @@ Any hits inflicted during Attacks are rounded up. (As per Undead: no feelings)
 
 Any unit except ravenous hordes or units with Undead fantastical rule, may replace one ordinary miniature in the unit with a special character, who moves and fights like any other miniature in the unit, and should be the last miniature removed.
 
-Units with a Folk Hero / Holy man gain a +1 to courage tests (in the same way as, and in addition to, being within 12” of their Leader – see page 11 of the rule book).  Folk Hero can not be combined with the Vexilla (Battle Standard) fantastical rule.
+Units with a Folk Hero / Holy man gain a +1 to courage tests (in the same way as, and in addition to, being within 12” of their Leader – see page 11 of the rule book).  Folk Hero can not be combined with the [Vexilla](#vexilla-battle-standard) (Battle Standard) fantastical rule.
 
 ## High tech armour
 **Cost:  0 points (Alien Elites only)**
