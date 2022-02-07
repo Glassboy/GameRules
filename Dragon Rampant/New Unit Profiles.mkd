@@ -53,3 +53,74 @@ Catapults represent any form of rock throwing device.  The crew are generally li
 * Extra crew @ 1 point per unit:  The war machine has double the normal sized crew and is capable of attacking hand to hand.  The unit gains Attack 7+, Attack Value 5+
 * Pavise @ 1 point per unit:  The warmachine is protected by pavises (these must be modelled).  Armour becomes 3 against shooting.
 * Any 'Fantastical Rules', except Spellcaster, Summoner, and Cleric/Slayer.
+
+### Organ Gun
+Organ guns are short range guns deployed to support infantry.  They fire grapeshot or multiple small cannon balls.  An organ gun may also be used to represent smaller artillery pieces like ship’s guns.
+
+| Unit Name| Organ Gun | Points             | 4        |
+|:---------|:----------|:-------------------|:---------|
+| Attack   | -         | Attack Value       | -        |
+| Move     | 6+        | Defence Value      | 5+       |
+| Shoot    | 8+        | Shoot value / Range| 4+ / 12" |
+| Courage  | 4+        | Maximum Movement   | 6"       |
+| Armour   | 2         | Strength Points    | 6        |
+
+
+**Special Rules**  
+None
+
+**Options**  
+
+*  Engineer @ 2 points per unit:  The war machine’s crew includes an engineer and the Shoot value of the unit increases to 3+.
+* Extra crew @ 1 point per unit:  The war machine has double the normal sized crew and is capable of attacking hand to hand.  The unit gains Attack 7+, Attack Value 5+.
+* Pavise @ 1 point per unit:  The warmachine is protected by pavises (these must be modelled).  Armour becomes 3 against shooting.
+* Any 'Fantastical Rules', except Spellcaster, Summoner, and Cleric/Slayer.
+
+
+### Cannon
+Cannons  are large heavy long range artillery pieces.  They are difficult to move and must be manhandled into position.
+
+| Unit Name| Cannon | Points             | 6       |
+|:---------|:-------|:-------------------|:--------|
+| Attack   | -      | Attack Value       | -       |
+| Move     | 6+     | Defence Value      | 5+      |
+| Shoot    | 8+     | Shoot value / Range| 4+ / 48"|
+| Courage  | 4+     | Maximum Movement   | 2"      |
+| Armour   | 2      | Strength Points    | 6       |
+
+**Special Rules**  
+
+* **Pivot**:  To change the facing of the cannon takes a  successful Move activation.
+* **Abandoned**:  If this unit is forced to retreat there is no way of taking the cannon - even with a mule team.  Leave the cannon model where it is.  If the crew manages to return to the cannon they may recrew it and continue firing.
+
+**Options**  
+
+* Engineer @ 2 pt per unit:  The war machine’s crew includes an engineer and the Shoot value of the unit increases to 3+.
+* Extra crew @ 1 point per unit:  The war machine has double the normal sized crew and is capable of attacking hand to hand.  The unit gains Attack 7+, Attack Value 5+.
+* Mule Team @ 1 point per unit:  The cannon is hauled by a pair of mule (or equivalent non-combative beasts) and the Maximum Movement is increased to 6”.  The animal team must be modelled.
+* Pavise @ 1 point per unit:  The warmachine is protected by pavises (these must be modelled).  Armour becomes 3 against shooting. 
+* Any 'Fantastical Rules', except Spellcaster, Summoner, and Cleric/Slayer.
+
+### Flame Cannon
+The Flame cannon is a dangerous unstable invention that spews flames at the enemy.  Only the bravest or most foolhardy armies use them.
+
+| Unit Name| Flame Cannon| Points             | 5       |
+|:---------|:------------|:-------------------|:--------|
+| Attack   | -           | Attack Value       | -       |
+| Move     | 6+          | Defence Value      | 5+      |
+| Shoot    | 7+          | Shoot value / Range| 4+ / 12"|
+| Courage  | 4+          | Maximum Movement   | 6"      |
+| Armour   | 2           | Strength Points    | 6       |
+
+
+**Special Rules** 
+
+* **Flame Attack**:  The powerful gush of flames from this weapon does an attack that ignores 1 point of armour (Armour 4 becomes 3 etc).  It has a range of 12”
+* **Temperamental**:  Flame weapons are inherently unstable.  If half or more of dice rolled during an attack with this weapon are ones, the unit becomes battered.  If the unit fails to rally and retreats, the crew leaves the Flame Cannon.  They’re afraid it is going to blow up.
+
+**Options**  
+
+* Engineer @ 2 pt per unit:  The war machine’s crew includes an engineer and the Shoot value of the unit increases to 3+.
+* Extra crew @ 1 point per unit:  The war machine has double the normal sized crew and is capable of attacking hand to hand.  The unit gains Attack 7+, Attack Value 5+.
+* Any 'Fantastical Rules', except Spellcaster, Summoner, and Cleric/Slayer.
+
