@@ -5,8 +5,6 @@ In the old world there exists a massive human empire, prone to making war on its
 
 | Unit | Type | Notes | Points | Options |
 |------|------|-------|--------|---------|
-|      |      |       |        |         |
-|      |      |       |        |         |
 | General              | Elite Rider   | Leader, Single Model Unit                                   | 10     | Level headed (+2pts), Blessed melee weapon (+2pts)                                    |
 | Wizard Lord          | Elite Foot    | Spellcaster, Single Model Unit                              | 10     |                                                                                       |
 | Battle Wizard        | Heavy Foot    | Spellcaster, Single Model Unit                              | 8      |                                                                                       |
