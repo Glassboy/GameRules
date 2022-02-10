@@ -3,5 +3,7 @@ In the old world there exists a massive human empire, prone to making war on its
 
 ## Imperial Humans
 
-| Unit                | Type         | Notes                                                      | Points| Options                                                                              |
-|---------------------|--------------|------------------------------------------------------- ----|-------|--------------------------------------------------------------------------------------|
+| Unit | Type | Notes | Points | Options |
+|------|------|-------|--------|---------|
+|      |      |       |        |         |
+|      |      |       |        |         |
