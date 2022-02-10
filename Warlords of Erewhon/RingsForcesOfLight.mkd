@@ -1,9 +1,13 @@
-| Warriors of Minas Tirith |
-|--------------------------|
-| Warriors Unit | Points Value: 92 |  |
+### Warriors of Minas Tirith|
+Points Value: 92
 
-|     |     |     |
-|-----|-----|-----|
-|     |     |     |
-|     |     |     |
-|     |     |     |
+|Warriors Unit: Warriors of Minas Tirith           | Ag   | Acc  | Str  | Res   | Init | Co   | Special|
+|:------------------------------------------------ |:----:|:----:|:----:|:-----:|:----:|:----:|:------:|
+| 1 x Minas Tirith Leader with sword, heavy armour | 5    | 5    | 5    | 5(8)  | 7    | 8    | Tough  |
+| 4 x Minas Tirith Warrior with sword, heavy armour| 5    | 5    | 5    | 5(8)  | 7    | 7    |        |
+
+**Options**
+* Give Warriors Long Spears @ 0pts each
+* Give Warriors Long Bows @ 4pts each
+* Add up to 5  Warriors @16pts each.
+
