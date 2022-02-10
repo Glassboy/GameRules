@@ -1,6 +1,8 @@
 # Imperial Human Warband
 In the old world there exists a massive human empire, prone to making war on its neighbours. Its many armies are full of wizards, knights, and rank and file of human warriors.
 
+
+
 | Unit                 | Type          | Notes                                                       | Points | Options                                                                               |
 |:---------------------|:--------------|:------------------------------------------------------- ----|:-------|:--------------------------------------------------------------------------------------|
 | General              | Elite Rider   | Leader, Single Model Unit                                   | 10     | Level headed (+2pts), Blessed melee weapon (+2pts)                                    |
