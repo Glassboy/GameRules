@@ -9,3 +9,4 @@ As I had a large Dwarf army for another fantasy game, the [Fantastical Rules](Fa
 
 ## Warbands
 * [Eru-kin warband](Erukin%20Warband.mkd)
+* [Imperial Humans](Imperial%20Human%20Warband.mkd)

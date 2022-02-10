@@ -1,21 +1,22 @@
-#Imperial Human Warband
+# Imperial Human Warband
+In the old world there exists a massive human empire, prone to making war on its neighbours. Its many armies are full of wizards, knights, and rank and file of human warriors.
 
-| Unit                | Type          | Notes                                                       | Points | Options                                                                               |
-|:--------------------|:--------------|:------------------------------------------------------------|:-------|---------------------------------------------------------------------------------------|
-| General             | Elite Rider   | Leader, Single Model Unit                                   | 10     | Level headed (+2pts), Blessed melee weapon (+2pts)                                    |
-| Wizard Lord         | Elite Foot    | Spellcaster, Single Model Unit                              | 10     |                                                                                       |
-| Battle Wizard       | Heavy Foot    | Spellcaster, Single Model Unit                              | 8      |                                                                                       |
-| Witch Hunter        | Bellicose Foot| Slayer, Single Model Unit                                   | 4/8    |                                                                                       |
-| Swordsmen           | Heavy Foot    | Offensive                                                   | 6      |                                                                                       |
-| Halberders          | Heavy Foot    |                                                             | 4      |                                                                                       |
-| Spearmen            | Light Foot    |                                                             | 3      |                                                                                       |
-| Free Company        | Bellicose Foot|                                                             | 4      |                                                                                       |
-| Free Company Militia| Light Foot    |                                                             | 3      | Mixed Weapons (+2pts), Fearful (-2pts)                                                |
-| Archers             | Light Missiles|                                                             | 3      |                                                                                       |
-| Crossbowmen         | Heavy Missiles|                                                             | 4      |                                                                                       |
-| Great Swords        | Elite Foot    |                                                             | 6      |                                                                                       |
-| Flagellants         | Bellicose Foot|                                                             | 5      | Hatred (+1pts)                                                                        |
-| Knights             | Elite Riders  |                                                             | 6      |                                                                                       |
-| Pistoliers          | Light Riders  | [Black Powder](Fantastical%20Rules.mkd#black-powder-weapons)| 4      |                                                                                       |
-| Outriders           | Heavy Riders  |                                                             | 5      | [Black Powder](Fantastical%20Rules.mkd#black-powder-weapons), Mounted Missiles (+1pts)|
-| Demigryph Knights   | Elite Riders  | Single Model Unit                                           | 8      | Flying (+2pts)                                                                        |
+| Unit                 | Type          | Notes                                                       | Points | Options                                                                               |
+|:---------------------|:--------------|:------------------------------------------------------- ----|:-------|:--------------------------------------------------------------------------------------|
+| General              | Elite Rider   | Leader, Single Model Unit                                   | 10     | Level headed (+2pts), Blessed melee weapon (+2pts)                                    |
+| Wizard Lord          | Elite Foot    | Spellcaster, Single Model Unit                              | 10     |                                                                                       |
+| Battle Wizard        | Heavy Foot    | Spellcaster, Single Model Unit                              | 8      |                                                                                       |
+| Witch Hunter         | Bellicose Foot| Slayer, Single Model Unit                                   | 4/8    |                                                                                       |
+| Swordsmen            | Heavy Foot    | Offensive                                                   | 6      |                                                                                       |
+| Halberders           | Heavy Foot    |                                                             | 4      |                                                                                       |
+| Spearmen             | Light Foot    |                                                             | 3      |                                                                                       |
+| Free Company         | Bellicose Foot|                                                             | 4      |                                                                                       |
+| Free Company Militia | Light Foot    |                                                             | 3      | Mixed Weapons (+2pts), Fearful (-2pts)                                                |
+| Archers              | Light Missiles|                                                             | 3      |                                                                                       |
+| Crossbowmen          | Heavy Missiles|                                                             | 4      |                                                                                       |
+| Great Swords         | Elite Foot    |                                                             | 6      |                                                                                       |
+| Flagellants          | Bellicose Foot|                                                             | 5      | Hatred (+1pts)                                                                        |
+| Knights              | Elite Riders  |                                                             | 6      |                                                                                       |
+| Pistoliers           | Light Riders  | [Black Powder](Fantastical%20Rules.mkd#black-powder-weapons)| 4      |                                                                                       |
+| Outriders            | Heavy Riders  |                                                             | 5      | [Black Powder](Fantastical%20Rules.mkd#black-powder-weapons), Mounted Missiles (+1pts)|
+| Demigryph Knights    | Elite Riders  | Single Model Unit                                           | 8      | Flying (+2pts)                                                                        |
