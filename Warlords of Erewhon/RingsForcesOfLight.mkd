@@ -1,4 +1,4 @@
-### Warriors of Minas Tirith|
+### Warriors of Minas Tirith
 Points Value: 92
 
 |Warriors Unit: Warriors of Minas Tirith           | Ag   | Acc  | Str  | Res   | Init | Co   | Special|
