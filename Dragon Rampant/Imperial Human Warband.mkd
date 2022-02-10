@@ -1,7 +1,7 @@
 # Imperial Human Warband
 In the old world there exists a massive human empire, prone to making war on its neighbours. Its many armies are full of wizards, knights, and rank and file of human warriors.
 
-
+## Imperial Humans
 
 | Unit                 | Type          | Notes                                                       | Points | Options                                                                               |
 |:---------------------|:--------------|:------------------------------------------------------- ----|:-------|:--------------------------------------------------------------------------------------|
