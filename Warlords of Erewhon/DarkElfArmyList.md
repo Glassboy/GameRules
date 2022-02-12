@@ -106,7 +106,8 @@ Special: You can include a maximum of one Dark Elf Hero in your warband, either 
 | 0 x Bound Daemons                  |  5   | 5   | 5   | 5    | 3    | 3   | Spirit, 1xHtH SV1, Exchange of Missiles SV1|
 
 **Options**
-  * Give Witch a Sword @1ptsUpgrade Witch to Magic Level 2 @25pts
+  * Give Witch a Sword @1pts
+  * Upgrade Witch to Magic Level 2 @25pts
   * Upgrade Witch to Magic Level 3 @ 50pts
   * Upgrade Witch to Tough 2 @10pts
   * Give unit Haughty Disdain @10pts
