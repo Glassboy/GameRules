@@ -94,6 +94,7 @@ Special: You can include a maximum of one Dark Elf Hero in your warband, either 
 | 1 x Dark Elf Hero with sword, light armour | 6    | 6   | 5    | 6(7) | 8    | 9    | Tough 2, Hero, 3xHtH, Wound |
 | 0 x Riding Horse                           |      |     |      |      |      |      | Fast 8                      |
 | 0 x Scaley beast                           |      |     |      |      |      |      | Fast 6, 1x HtH SV1          |
+
 **Options**
   * Give Hero spangly armour @15pts increasing Res to 6(9)
   * Upgrade Hero to Wounds 2 @14pts
