@@ -13,10 +13,9 @@ This list has primarily been designed to be used with the Dark Elves from the fo
 
 The Chronopia and Fantasy ranges from Heartbreaker Miniatures also have some Elves that would work well as Dark Elves.
 
-
 This Army List contains a standard Dark Elf list which should work with any manufacturer's range and a Demonologist sublist that is more appropriate for those ranges where Dark Elves are allied with daemons.
-________________
 
+---
 
 ## Standard Warband
 ### Dark Elf Noble
