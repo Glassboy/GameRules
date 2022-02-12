@@ -61,12 +61,6 @@ Special: You must include one Dark Elf Noble unit in your warband either a Dark 
   * Upgrade Dark Elf Noble to Wound 2 @16pts
   * Add up to 2 Dark Elf Bodyguards @23pts each
 
-
-
-
-
-	
-
 ### Dark Elf Hero
 Points Value: 77,<BR>
 Special: You can include a maximum of one Dark Elf Hero in your warband, either the Dark Elf Hero or the Mounted Dark Elf Hero.
@@ -105,6 +99,20 @@ Special: You can include a maximum of one Dark Elf Hero in your warband, either 
   * Give Hero Lance @1pts
   * Give Hero Big Axe @1pts
 
+| Warrior Unit: Dark Elf Witch       | Ag   | Acc | Str | Res  | Init | Co  | Special                                    |
+|:-----------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:-------------------------------------------|
+| 1 x Dark Elf Witch with staff      |  6   | 6   | 5   | 5    | 8    | 9   | Tough, Wound, Magic Level 1                |
+| 0 x Apprentice Witches with swords |  6   | 6   | 5   | 5    | 8    | 8   |                                            |
+| 0 x Bound Daemons                  |  5   | 5   | 5   | 5    | 3    | 3   | Spirit, 1xHtH SV1, Exchange of Missiles SV1|
+
+**Options**
+  * Give Witch a Sword @1ptsUpgrade Witch to Magic Level 2 @25pts
+  * Upgrade Witch to Magic Level 3 @ 50pts
+  * Upgrade Witch to Tough 2 @10pts
+  * Give unit Haughty Disdain @10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 4 Bound Daemons @18pts each or add up to 4 Apprentice Witches @15pts each
+  * Give Apprentice Witches light armour @2pts per model increasing Res to 5(6)
 
 
 <!--	
