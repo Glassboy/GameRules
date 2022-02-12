@@ -1,5 +1,4 @@
-# GameRules
-## Dragon Rampant
-New [Fantastical Rules](Dragon%20Rampant/Fantastical%20Rules.mkd)  
+# Game Rules
+*  [Dragon Rampant](Dragon%20Rampant/) rules and war bands
+*  [Warlords of Erewhon](Warlords%20of%20Erewhon) army lists
 
-New [Unit Profiles](Dragon%20Rampant/New%20Unit%20Profiles.mkd)
