@@ -27,7 +27,6 @@ Special: You must include one Dark Elf Noble unit in your warband either a Dark 
 |:-------------------------------------------------|:----:|:----|-----:|:----:|:----:|:----:|:---------------------------------------|
 | 1 x Dark Elf Noble with sword, medium armour     |  6   | 6   | 5    | 5(7) | 8    | 9    | Tough, Command, Follow, 3 x HtH, Wound |
 | 2 x Dark Elf Bodyguard with sword, medium armour |  6   | 6   | 5    | 5(7) | 8    | 8    |                                        |
-|                                                  |      |     |      |      |      |      |                                        |
 
 **Options**
   * Give unit long spears @Free per model
@@ -41,86 +40,31 @@ Special: You must include one Dark Elf Noble unit in your warband either a Dark 
 
 NB: for a Dark Elf Noble mounted on a Dragon, take the Dark Elf Noble above without any bodyguard @80pts and combine with a Dragon as per the rules in the Monsters Army List.  The restriction of one Dark Elf Noble per warband still applies.
 
+### Mounted Dark Elf Noble
+Points Value: 148
+Special: You must include one Dark Elf Noble unit in your warband either a Dark Elf Noble or Mounted Mounted Dark Noble and one only. The unit can be mounted on either riding horses or scaly beasts.  Use the appropriate profile line.
+
+| Warlord Mounted Unit: Mounted Dark Elf Noble                                    | Ag   | Acc  | Str  | Res  | Init | Co   |                                       |
+|:--------------------------------------------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:--------------------------------------|
+| 1 x Dark Elf Noble with sword, medium armour on riding horse or scaly beast.    | 6    | 6    | 5    | 6(8) | 8    | 9    | Tough, Command, Follow, 3 x HtH, Wound|
+| 2 x Dark Elf Bodyguard with sword, medium armour on riding horse or scaly beast | 6    | 6    | 5    | 6(8) | 8    | 8    |                                       |
+| 0 x Riding Horse                                                                |      |      |      |      |      |      | Fast 8                                |
+| 0 x Scaley beast                                                                |      |      |      |      |      |      | Fast 6, 1x HtH SV1                    |
+
+**Options**
+  * Give unit spears @Free per model
+  * Give unit Lances @1pt per model
+  * Give unit spangly armour @10pts +2pts per Bodyguard model increasing Res to 6(9)
+  * Give unit Haughty Disdain @10pts
+  * Give unit Zealous @5pts per model
+  * Upgrade Dark Elf Noble to Tough 2 @10pts
+  * Upgrade Dark Elf Noble to Wound 2 @16pts
+  * Add up to 2 Dark Elf Bodyguards @23pts each
+
+
 <!--	
 
 
-
-		
-
-
-
-
-Mounted Dark Elf Noble
-	Warlord Mounted Unit
-	Points Value: 148
-	
-
-	Special: You must include one Dark Elf Noble unit in your warband either a Dark Elf Noble or Mounted Mounted Dark Noble and one only.
-
-
-The unit can be mounted on either riding horses or scaly beasts.  Use the appropriate profile line.
-	Unit: Mounted Dark Elf Noble
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Noble with sword, medium armour on riding horse or scaly beast.
-	6
-	6
-	5
-	6(8)
-	8
-	9
-	Tough, Command, Follow, 3 x HtH, Wound
-	2 x Dark Elf Bodyguard with sword, medium armour on riding horse or scaly beast.
-	6
-	6
-	5
-	6(8)
-	8
-	8
-	
-
-	0 x Riding Horse
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	Fast 8
-	0 x Scaley beast
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	Fast 6, 1x HtH SV1
-	Options
-	* Give unit spears @Free per model
-* Give unit Lances @1pt per model
-* Give unit spangly armour @10pts +2pts per Bodyguard model increasing Res to 6(9)
-* Give unit Haughty Disdain @10pts
-* Give unit Zealous @5pts per model
-	* Upgrade Dark Elf Noble to Tough 2 @10pts
-* Upgrade Dark Elf Noble to Wound 2 @16pts
-* Add up to 2 Dark Elf Bodyguards @23pts each
 	
 
 Dark Elf Hero
