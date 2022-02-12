@@ -41,10 +41,10 @@ Special: You must include one Dark Elf Noble unit in your warband either a Dark 
 NB: for a Dark Elf Noble mounted on a Dragon, take the Dark Elf Noble above without any bodyguard @80pts and combine with a Dragon as per the rules in the Monsters Army List.  The restriction of one Dark Elf Noble per warband still applies.
 
 ### Mounted Dark Elf Noble
-Points Value: 148
+Points Value: 148<BR>
 Special: You must include one Dark Elf Noble unit in your warband either a Dark Elf Noble or Mounted Mounted Dark Noble and one only. The unit can be mounted on either riding horses or scaly beasts.  Use the appropriate profile line.
 
-| Warlord Mounted Unit: Mounted Dark Elf Noble                                    | Ag   | Acc  | Str  | Res  | Init | Co   |                                       |
+| Warlord Mounted Unit: Mounted Dark Elf Noble                                    | Ag   | Acc  | Str  | Res  | Init | Co   | Special                               |
 |:--------------------------------------------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:--------------------------------------|
 | 1 x Dark Elf Noble with sword, medium armour on riding horse or scaly beast.    | 6    | 6    | 5    | 6(8) | 8    | 9    | Tough, Command, Follow, 3 x HtH, Wound|
 | 2 x Dark Elf Bodyguard with sword, medium armour on riding horse or scaly beast | 6    | 6    | 5    | 6(8) | 8    | 8    |                                       |
@@ -62,110 +62,51 @@ Special: You must include one Dark Elf Noble unit in your warband either a Dark 
   * Add up to 2 Dark Elf Bodyguards @23pts each
 
 
+
+
+
+	
+
+### Dark Elf Hero
+Points Value: 77,<BR>
+Special: You can include a maximum of one Dark Elf Hero in your warband, either the Dark Elf Hero or the Mounted Dark Elf Hero.
+
+| Warrior Unit: Dark Elf Noble                  | Ag   | Acc | Str  | Res | Init | Co   | Special                     |
+|:----------------------------------------------|:----:|:----|-----:|:---:|:----:|:----:|:----------------------------|
+| 1 x Dark Elf Hero with sword, light armour    |  6   | 6   | 5    | 5(6)| 8    | 9    | Tough 2, Hero, 3xHtH, Wound |
+
+**Options**
+ * Give Hero spangly armour @15pts increasing Res to 5(8)
+ * Upgrade Hero to Wounds 2 @12pts
+ * Upgrade Hero to Wounds 3 @24pts
+ * Upgrade Hero to Tough 3 @10pts
+ * Give Hero Haughty Disdain @10pts
+ * Give Hero Zealous @5pts
+ * Give Hero Halberd @1pts
+ * Give Hero Big Axe @1pts
+
+### Mounted Dark Elf Hero
+Points Value: 87<BR>
+Special: You can include a maximum of one Dark Elf Hero in your warband, either the Dark Elf Hero or the Mounted Dark Elf Hero. The Hero can be mounted on either a riding horse or a scaly beast.  Use the appropriate profile line
+
+| Mounted Unit: Mounted Dark Elf Hero        | Ag   | Acc | Str  | Res  | Init | Co   | Special                     |
+|:-------------------------------------------|:----:|:---:|:----:|:----:|:----:|:----:|:----------------------------|
+| 1 x Dark Elf Hero with sword, light armour | 6    | 6   | 5    | 6(7) | 8    | 9    | Tough 2, Hero, 3xHtH, Wound |
+| 0 x Riding Horse                           |      |     |      |      |      |      | Fast 8                      |
+| 0 x Scaley beast                           |      |     |      |      |      |      | Fast 6, 1x HtH SV1          |
+**Options**
+  * Give Hero spangly armour @15pts increasing Res to 6(9)
+  * Upgrade Hero to Wounds 2 @14pts
+  * Upgrade Hero to Wounds 3 @28pts
+  * Upgrade Hero to Tough 3 @10pts
+  * Give Hero Haughty Disdain @10pts
+  * Give Hero Zealous @5pts
+  * Give Hero Lance @1pts
+  * Give Hero Big Axe @1pts
+
+
+
 <!--	
-
-
-	
-
-Dark Elf Hero
-	Warrior Unit
-	Points Value: 77
-	
-
-	Special: You can include a maximum of one Dark Elf Hero in your warband, either the Dark Elf Hero or the Mounted Dark Elf Hero.
-	Unit: Dark Elf Hero
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Hero with sword, light armour
-	6
-	6
-	5
-	5(6)
-	8
-	9
-	Tough 2, Hero, 3xHtH, Wound
-	Options
-	* Give Hero spangly armour @15pts increasing Res to 5(8)
-* Upgrade Hero to Wounds 2 @12pts
-* Upgrade Hero to Wounds 3 @24pts
-* Upgrade Hero to Tough 3 @10pts
-	* Give Hero Haughty Disdain @10pts
-* Give Hero Zealous @5pts
-* Give Hero Halberd @1pts
-* Give Hero Big Axe @1pts
-	
-
-Mounted Dark Elf Hero
-	Mounted Unit
-	Points Value: 87
-	
-
-	Special: You can include a maximum of one Dark Elf Hero in your warband, either the Dark Elf Hero or the Mounted Dark Elf Hero.
-
-
-The Hero can be mounted on either a riding horse or a scaly beast.  Use the appropriate profile line
-	Unit: Mounted Dark Elf Hero
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Hero with sword, light armour
-	6
-	6
-	5
-	6(7)
-	8
-	9
-	Tough 2, Hero, 3xHtH, Wound
-	0 x Riding Horse
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	Fast 8
-	0 x Scaley beast
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	Fast 6, 1x HtH SV1
-	Options
-	* Give Hero spangly armour @15pts increasing Res to 6(9)
-* Upgrade Hero to Wounds 2 @14pts
-* Upgrade Hero to Wounds 3 @28pts
-* Upgrade Hero to Tough 3 @10pts
-	* Give Hero Haughty Disdain @10pts
-* Give Hero Zealous @5pts
-* Give Hero Lance @1pts
-* Give Hero Big Axe @1pts
-	
-
-
-
 Dark Elf Witch
 	Warrior Unit
 	Points Value: 61
