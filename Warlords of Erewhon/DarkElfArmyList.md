@@ -99,6 +99,11 @@ Special: You can include a maximum of one Dark Elf Hero in your warband, either 
   * Give Hero Lance @1pts
   * Give Hero Big Axe @1pts
 
+
+### Dark Elf Witch
+Points Value: 61<br>
+Special: You can include a maximum of one Dark Elf Witch in your warband.
+
 | Warrior Unit: Dark Elf Witch       | Ag   | Acc | Str | Res  | Init | Co  | Special                                    |
 |:-----------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:-------------------------------------------|
 | 1 x Dark Elf Witch with staff      |  6   | 6   | 5   | 5    | 8    | 9   | Tough, Wound, Magic Level 1                |
@@ -115,55 +120,18 @@ Special: You can include a maximum of one Dark Elf Hero in your warband, either 
   * Add up to 4 Bound Daemons @18pts each or add up to 4 Apprentice Witches @15pts each
   * Give Apprentice Witches light armour @2pts per model increasing Res to 5(6)
 
+### Dark Elf Witch on Scaley Beast
+Points Value: 72<br>
+Special: You can include a maximum of one Dark Elf Witch in your warband.
+
+| Mounted Unit: Dark Elf Witch on Scaley Beast | Ag   | Acc | Str | Res  | Init | Co  | Special                                       |
+|:-------------------------------------------- |:----:|:---:|:---:|:----:|:----:|:---:|:-------------------------------------------   |
+| 1 x Dark Elf Witch with sword on scaley beast|  6   | 6   | 5   | 5    | 8    | 9   | Tough, Wound, Magic level 1, Fast 6, 1xHtH SV1|
+| 0 x Bound Daemons                            |  5   | 5   | 5   | 5    | 3    | 3   | Spirit, 1xHtH SV1, Exchange of Missiles SV1   |
+
 
 <!--	
-Dark Elf Witch
-	Warrior Unit
-	Points Value: 61
-	
 
-	Special: You can include a maximum of one Dark Elf Witch in your warband.
-	Unit:
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Witch with staff
-	6
-	6
-	5
-	5
-	8
-	9
-	Tough, Wound, Magic Level 1
-	0 x Apprentice Witches with swords
-	6
-	6
-	5
-	5
-	8
-	8
-	
-
-	0 x Bound Daemons
-	5
-	5
-	5
-	5
-	3
-	3
-	Spirit, 1xHtH SV1, Exchange of Missiles SV1
-	Options
-	* Give Witch a Sword @1ptsUpgrade Witch to Magic Level 2 @25pts
-* Upgrade Witch to Magic Level 3 @ 50pts
-* Upgrade Witch to Tough 2 @10pts
-* Give unit Haughty Disdain @10pts
-* Give unit Zealous @5pts per model
-	* Add up to 4 Bound Daemons @18pts each or add up to 4 Apprentice Witches @15pts each
-* Give Apprentice Witches light armour @2pts per model increasing Res to 5(6)
 	Dark Elf Witch on Scaley Beast
 	Mounted Unit
 	Points Value: 72
