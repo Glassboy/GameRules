@@ -1,6 +1,6 @@
 # Dark Elf Warband
 Version  0.1<BR>
-Updated 11/05/2021  
+Updated 11/05/2021
 
 Whether they are called Shadow Elves, Dark Elves, Twilight Kin, or the Unseelie Court, evil faeries have been part of war gaming for a long time.
 
@@ -40,7 +40,7 @@ Special: You must include one Dark Elf Noble unit in your warband either a Dark 
 NB: for a Dark Elf Noble mounted on a Dragon, take the Dark Elf Noble above without any bodyguard @80pts and combine with a Dragon as per the rules in the Monsters Army List.  The restriction of one Dark Elf Noble per warband still applies.
 
 ### Mounted Dark Elf Noble
-Points Value: 148<BR>
+Points Value: 134<BR>
 Special: You must include one Dark Elf Noble unit in your warband either a Dark Elf Noble or Mounted Mounted Dark Noble and one only. The unit can be mounted on either riding horses or scaly beasts.  Use the appropriate profile line.
 
 | Warlord Mounted Unit: Mounted Dark Elf Noble                                    | Ag   | Acc  | Str  | Res  | Init | Co   | Special                               |
@@ -48,9 +48,10 @@ Special: You must include one Dark Elf Noble unit in your warband either a Dark 
 | 1 x Dark Elf Noble with sword, medium armour on riding horse or scaly beast.    | 6    | 6    | 5    | 6(8) | 8    | 9    | Tough, Command, Follow, 3 x HtH, Wound|
 | 2 x Dark Elf Bodyguard with sword, medium armour on riding horse or scaly beast | 6    | 6    | 5    | 6(8) | 8    | 8    |                                       |
 | 0 x Riding Horse                                                                |      |      |      |      |      |      | Fast 8                                |
-| 0 x Scaley beast                                                                |      |      |      |      |      |      | Fast 6, 1x HtH SV1                    |
+| 0 x Scaly beast                                                                |      |      |      |      |      |      | Fast 6, 1x HtH SV1                    |
 
 **Options**
+  * Upgrade unit from horses to Scaly Beasts @2pts per model
   * Give unit spears @Free per model
   * Give unit Lances @1pt per model
   * Give unit spangly armour @10pts +2pts per Bodyguard model increasing Res to 6(9)
@@ -58,10 +59,10 @@ Special: You must include one Dark Elf Noble unit in your warband either a Dark 
   * Give unit Zealous @5pts per model
   * Upgrade Dark Elf Noble to Tough 2 @10pts
   * Upgrade Dark Elf Noble to Wound 2 @16pts
-  * Add up to 2 Dark Elf Bodyguards @23pts each
+  * Add up to 2 Dark Elf Bodyguards @25pts each
 
 ### Dark Elf Hero
-Points Value: 77,<BR>
+Points Value: 77<BR>
 Special: You can include a maximum of one Dark Elf Hero in your warband, either the Dark Elf Hero or the Mounted Dark Elf Hero.
 
 | Warrior Unit: Dark Elf Noble                  | Ag   | Acc | Str  | Res | Init | Co   | Special                     |
@@ -79,16 +80,17 @@ Special: You can include a maximum of one Dark Elf Hero in your warband, either 
  * Give Hero Big Axe @1pts
 
 ### Mounted Dark Elf Hero
-Points Value: 87<BR>
+Points Value: 85<BR>
 Special: You can include a maximum of one Dark Elf Hero in your warband, either the Dark Elf Hero or the Mounted Dark Elf Hero. The Hero can be mounted on either a riding horse or a scaly beast.  Use the appropriate profile line
 
 | Mounted Unit: Mounted Dark Elf Hero        | Ag   | Acc | Str  | Res  | Init | Co   | Special                     |
 |:-------------------------------------------|:----:|:---:|:----:|:----:|:----:|:----:|:----------------------------|
 | 1 x Dark Elf Hero with sword, light armour | 6    | 6   | 5    | 6(7) | 8    | 9    | Tough 2, Hero, 3xHtH, Wound |
 | 0 x Riding Horse                           |      |     |      |      |      |      | Fast 8                      |
-| 0 x Scaley beast                           |      |     |      |      |      |      | Fast 6, 1x HtH SV1          |
+| 0 x Scaly Beast                            |      |     |      |      |      |      | Fast 6, 1x HtH SV1          |
 
 **Options**
+  * Upgrade hero to scaly beast @2pts
   * Give Hero spangly armour @15pts increasing Res to 6(9)
   * Upgrade Hero to Wounds 2 @14pts
   * Upgrade Hero to Wounds 3 @28pts
@@ -119,76 +121,26 @@ Special: You can include a maximum of one Dark Elf Witch in your warband.
   * Add up to 4 Bound Daemons @18pts each or add up to 4 Apprentice Witches @15pts each
   * Give Apprentice Witches light armour @2pts per model increasing Res to 5(6)
 
-### Dark Elf Witch on Scaley Beast
+### Dark Elf Witch on Scaly Beast
 Points Value: 72<br>
 Special: You can include a maximum of one Dark Elf Witch in your warband.
 
-| Mounted Unit: Dark Elf Witch on Scaley Beast | Ag   | Acc | Str | Res  | Init | Co  | Special                                       |
+| Mounted Unit: Dark Elf Witch on Scaly Beast  | Ag   | Acc | Str | Res  | Init | Co  | Special                                       |
 |:-------------------------------------------- |:----:|:---:|:---:|:----:|:----:|:---:|:-------------------------------------------   |
-| 1 x Dark Elf Witch with sword on scaley beast|  6   | 6   | 5   | 5    | 8    | 9   | Tough, Wound, Magic level 1, Fast 6, 1xHtH SV1|
+| 1 x Dark Elf Witch with sword on scaly beast |  6   | 6   | 5   | 5    | 8    | 9   | Tough, Wound, Magic level 1, Fast 6, 1xHtH SV1|
 | 0 x Bound Daemons                            |  5   | 5   | 5   | 5    | 3    | 3   | Spirit, 1xHtH SV1, Exchange of Missiles SV1   |
+
+**Options**
+  * Upgrade Witch to Magic Level 2 @25pts
+  * Upgrade Witch to Magic Level 3 @ 50pts
+  * Upgrade Witch to Tough 2 @10pts
+  * Give unit Haughty Disdain @10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 4 Bound Daemons @18pts each
+
 
 
 <!--	
-
-	Dark Elf Witch on Scaley Beast
-	Mounted Unit
-	Points Value: 72
-	
-
-	Special: You can include a maximum of one Dark Elf Witch in your warband.
-	Unit:
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Witch with sword
-	6
-	6
-	5
-	6
-	8
-	9
-	Tough, Wound, Magic level 1, Fast 6, 1xHtH SV1
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	0 x Bound Daemons
-	5
-	5
-	5
-	5
-	3
-	3
-	Spirit, 1xHtH SV1, Exchange of Missiles SV1
-
-
-	Options
-	* Upgrade Witch to Magic Level 2 @25pts
-* Upgrade Witch to Magic Level 3 @ 50pts
-* Upgrade Witch to Tough 2 @10pts
-* Give unit Haughty Disdain @10pts
-* Give unit Zealous @5pts per model
-	* Add up to 4 Bound Daemons @18pts each
-	
-
-
 
 Dark Elf Guard
 	Warriors Unit
