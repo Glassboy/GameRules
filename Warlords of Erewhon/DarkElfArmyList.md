@@ -197,12 +197,12 @@ Points Value: 107<BR>
   * Add up to 5 foot knights @19pts per model
 
 ### Dark Elf Riders
-Points Value: 117<BR>
+Points Value: 93<BR>
 
-| Mounted Unit: Dark Elf Scouts                     | Ag   | Acc | Str | Res  | Init | Co  | Special         |
+| Mounted Unit: Dark Elf Riders                     | Ag   | Acc | Str | Res  | Init | Co  | Special         |
 |:--------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
-| 1 x Dark Elf Leader with long spear, light armour | 5    | 6   | 5   | 5(7) | 8    | 9   | Tough, Fast 8"  |
-| 2 x Dark Elf Riders with long spear, light armour | 5    | 6   | 5   | 5(7) | 8    | 8   | Fast 8"         |
+| 1 x Dark Elf Leader with long spear, light armour | 6    | 6   | 5   | 5(7) | 8    | 9   | Tough, Fast 8"  |
+| 2 x Dark Elf Riders with long spear, light armour | 6    | 6   | 5   | 5(7) | 8    | 8   | Fast 8"         |
 
 **Options**
   * Give unit Haughty Disdain @ 10pts
@@ -261,6 +261,20 @@ Points Value: 117<BR>
   * Give unit Zealous @5pts per model
   * Add up to 5 Scouts @21pts per model
 
+### Dark Mounted Scouts
+Points Value: 102<BR>
+
+| Mounted Unit: Dark Elf Mounted Scouts                          | Ag   | Acc | Str | Res  | Init | Co  | Special         |
+|:---------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
+| 1 x Dark Elf Leader with sword, crossbow, light armour         | 5    | 6   | 5   | 5(7) | 7    | 9   | Tough, Fast 8"  |
+| 2 x Dark Elf Mounted Scouts with sword, crossbow, light armour | 5    | 6   | 5   | 5(7) | 7    | 8   | Fast 8"         |
+
+**Options**
+  * Give unit Haughty Disdain @ 10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 2 Mounted Scouts @30pts per model
+
+
 ### Harpies
 Points Value: 150<BR>
 Special: You can include a maximum of one unit of Harpies in your warband.
@@ -291,45 +305,6 @@ Points Value: 97<BR>
 
 <!--	
 
-
-
-
-
-Dark Elf Riders
-	Mounted Unit
-	Points Value: 
-	93
-	
-
-	Unit: Dark Elf Riders
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Leader with long spear, light armour
-	6
-	6
-	5
-	6(7)
-	8
-	9
-	Tough, Fast 8
-	2 x Dark Elf Spearmen  with long spear, light armour
-	6
-	6
-	5
-	6(7)
-	8
-	8
-	Fast 8
-	Options
-	* Give unit Haughty Disdain @10pts
-* Give unit Zealous @5pts per model
-	* Add up to 2 Spearmen @27pts per model
-	
 
 
 
