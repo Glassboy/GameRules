@@ -1,9 +1,9 @@
 # Eru-Kin Warband
 ## Preamble
-[Diehard Miniatures](https://diehardminiatures.com/) produce a range of Amphibian miniatures - the [Eru-Kin](https://diehardminiatures.com/product-category/eru-kin/) who represent a race of high tech "aliens" who have been stranded on a low-tech fantasy world
+[Diehard Miniatures](https://diehardminiatures.com/) produce a range of Amphibian miniatures - the [Eru-Kin](https://diehardminiatures.com/product-category/eru-kin/) who represent a race of high tech "aliens" who have been stranded on a low-tech fantasy world.
 
 ## Eru-Kin
-The forgotten remnants of a once proud space faring race cast adrift on a cruel planet, the Eru-Kin are struggling to make a place for themselves as their technology fails. From the noble Pureblood - born under another star - with their superior weaponry to the lowly “bog breed” scraping together armour and weapons from what they can scavenge or convince a Tech Mage to build, the Eru-kin are still a formidable foe. As are their genetically engineered Lizardmen slaves (Troglodytes) and hideous abominations from experiments that did not work.
+The forgotten remnants of a once proud space faring race cast adrift on a cruel planet, the Eru-Kin are struggling to make a place for themselves as their technology fails. From the noble Pureblood - born under another star - with their superior weaponry, to the lowly “bog breed” scraping together armour and weapons from what they can scavenge or convince a Tech Mage to build, the Eru-kin are still a formidable foe. As are their genetically engineered Lizardmen slaves (Troglodytes) and hideous abominations from experiments that did not fully work.
 
 | Unit                         | Type             | Notes                                                                          | Points | Options                                                                    |
 |------------------------------|------------------|--------------------------------------------------------------------------------|--------|----------------------------------------------------------------------------|
@@ -14,7 +14,7 @@ The forgotten remnants of a once proud space faring race cast adrift on a cruel 
 | Bog Bloods spearmen          | Light Foot       |                                                                                | 3      |                                                                            |
 | Bog Blood Scouts (blow pipes)| Scouts           |                                                                                | 2      |                                                                            |
 | Bog Blood toadlicker         | Light Foot       | Single Model Unit, Summoner                                                    | 6      |                                                                            |
-| Troglodyte                   | Bellicose Foot   | Reduce Model Unit (3)                                                          | 4      |                                                                            |
+| Troglodyte                   | Bellicose Foot   | Reduced Model Unit (3)                                                         | 4      |                                                                            |
 | Abominations                 | Lesser Warbeasts |                                                                                | 4      | Fear (+2pts), [Regeneration](Fantastical%20Rules.mkd#regeneration) (+3pts) |
 
 Eru-kin often ally with their scaly brethren, the Snakemen.
