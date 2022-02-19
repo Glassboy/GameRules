@@ -138,80 +138,36 @@ Special: You can include a maximum of one Dark Elf Witch in your warband.
   * Give unit Zealous @5pts per model
   * Add up to 4 Bound Daemons @18pts each
 
+### Dark Elf Guard
+Points Value: 132<BR>
+Special: You can include a maximum of one unit of Guard in your war band.  You can not include a unit of Guard if you have also fielded a unit of Dark Elf Death Dealer
+
+| Warriors Unit: Dark Elf Guard  | Ag   | Acc | Str | Res  | Init | Co  | Special                                       |
+|:-------------------------------------------- |:----:|:---:|:---:|:----:|:----:|:---:|:-------------------------------------------   |
+| 1 x Dark Elf Leader with halberd, spangly armour |  6   | 6   | 6   | 5(8)    | 8    | 9   | Tough, Spangly Armour|
+| 4 x Dark Elf Guard with halberd, spangly armour | 6 | 6 | 6 | 5(8) | 8 | 8 | Spangly Armour |
+
+**Options**
+  * Give unit Haughty Disdain @ 10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 5 Guard @ 23pts per model
+
+### Death Dealers
+Points Value: 127<BR>
+Special: You can include a maximum of one unit of Guard in your war band.  You can not include a unit of Guard if you have also fielded a unit of Dark Elf Death Dealer
+
+| Warriors Unit: Death Dealers  | Ag   | Acc | Str | Res  | Init | Co  | Special                                       |
+|:-------------------------------------------- |:----:|:---:|:---:|:----:|:----:|:---:|:-------------------------------------------   |
+| 1 x Dark Elf Leader with huge axe, spangly armour |  6   | 6   | 6   | 5(8)    | 8    | 9   | Tough, Spangly Armour|
+| 4 x Dark Elf Executioners with huge axe, spangly armour | 6 | 6 | 6 | 5(8) | 8 | 8 | Spangly Armour |
+
+**Options**
+  * Give unit Haughty Disdain @ 10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 5 Death Dealers @23pts per model
 
 
 <!--	
-
-Dark Elf Guard
-	Warriors Unit
-	Points Value: 
-	132
-	Special: You can include a maximum of one unit of Guard in your war band.  You can not include a unit of Guard if you have also fielded a unit of Dark Elf Death Dealers.
-	Unit: Dark Elf Guard
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Leader with halberd, spangly armour
-	6
-	6
-	6
-	5(8)
-	8
-	9
-	Tough, Spangly Armour
-	4 x Dark Elf Guard with halberd, spangly armour
-	6
-	6
-	6
-	5(8)
-	8
-	8
-	Spangly Armour
-	Options
-	* Give unit Haughty Disdain @ 10pts
-* Give unit Zealous @5pts per model
-	* Add up to 5 Guard @ 23pts per model
-	
-
-
-
-Dark Elf Death Dealers
-	Warriors Unit
-	Points Value: 
-	127
-	Special: You can include a maximum of one unit of Death Dealers in your war band.  You can not include a unit of Death Dealers if you have also fielded a unit of Dark Elf Guard.
-	Unit: Dark Elf Death Dealers
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Leader with huge axe, spangly armour
-	6
-	6
-	6
-	5(8)
-	8
-	9
-	Tough, Spangly Armour
-	4 x Dark Elf Executioners with huge axe, spangly armour
-	6
-	6
-	6
-	5(8)
-	8
-	8
-	Spangly Armour
-	Options
-	* Give unit Haughty Disdain @10pts
-* Give unit Zealous @5pts per model
-	* Add up to 5 Death Dealers @23pts per model
 	
 
 
