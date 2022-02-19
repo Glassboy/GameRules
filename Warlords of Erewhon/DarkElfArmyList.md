@@ -182,7 +182,7 @@ Points Value: 97<BR>
 ### Dark Elf Spears
 Points Value: 97<BR>
 
-| Warriors Unit: Dark Elf Warriors                        | Ag   | Acc | Str | Res  | Init | Co  | Special  |
+| Warriors Unit: Dark Elf Spears                          | Ag   | Acc | Str | Res  | Init | Co  | Special  |
 |:--------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:---------|
 | 1 x Dark Elf Leader with long spear, light armour       | 6    | 6   | 5   | 5(6) | 8    | 9   |          |
 | 4 x Dark Elf Spears  with long spear, light armour      | 6    | 6   | 5   | 5(6) | 8    | 8   |          |
@@ -192,86 +192,33 @@ Points Value: 97<BR>
   * Give unit Zealous @5pts per model
   * Add up to 5 Spearmen @17pts per model
 
+### Dark Elf Crossbows
+Points Value: 117<BR>
+
+| Warriors Unit: Dark Elf Crossbows                                | Ag   | Acc | Str | Res  | Init | Co  | Special                                   |
+|:-----------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:------------------------------------------|
+| 1 x Dark Elf Leader with sword, heavy crossbow, light armour     | 5    | 6   | 5   | 5(6) | 7    | 9   | Tough, Fire order to shoot, heavily laden |
+| 4 x Dark Elf Crossbows  with sword, heavy crossbow, light armour | 5    | 6   | 5   | 5(6) | 7    | 8   | Fire order to shoot, heavily laden        |
+
+**Options**
+  * Give unit Haughty Disdain @ 10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 5 Crossbowmen @21pts per model
+
+### Dark Elf Scouts
+Points Value: 117<BR>
+
+| Warriors Unit: Dark Elf Crossbows                                | Ag   | Acc | Str | Res  | Init | Co  | Special         |
+|:-----------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
+| 1 x Dark Elf Leader with sword, crossbow, light armour           | 5    | 6   | 5   | 5(6) | 7    | 9   | Tough, Woodsman |
+| 4 x Dark Elf Crossbowmen with sword, crossbow, light armour      | 5    | 6   | 5   | 5(6) | 7    | 8   | Woodsman        |
+
+**Options**
+  * Give unit Haughty Disdain @ 10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 5 Scouts @21pts per model
 
 <!--	
-
-
-
-Dark Elf Crossbows
-	Warriors Unit
-	Points Value: 
-	117
-	
-
-	Unit: Dark Elf Crossbows
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Leader with sword, heavy crossbow, light armour
-	5
-	6
-	5
-	5(6)
-	7
-	9
-	Tough, Fire order to shoot, heavily laden
-	4 x Dark Elf Crossbows  with sword, heavy crossbow, light armour
-	5
-	6
-	5
-	5(6)
-	7
-	8
-	Fire order to shoot, heavily laden
-	Options
-	* Give unit Haughty Disdain @10pts
-* Give unit Zealous @5pts per model
-	* Add up to 5 Crossbowmen @21pts per model
-	
-
-
-
-Dark Elf Scouts
-	Warriors Unit
-	Points Value: 
-	117
-	
-
-	Unit: Dark Elf Scouts
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Leader with sword, crossbow, light armour
-	5
-	6
-	5
-	5(6)
-	7
-	9
-	Tough, Woodsman
-	4 x Dark Elf Crossbowmen  with sword, crossbow, light armour
-	5
-	6
-	5
-	5(6)
-	7
-	8
-	Woodsman
-	Options
-	* Give unit Haughty Disdain @10pts
-* Give unit Zealous @5pts per model
-	* Add up to 5 Scouts @21pts per model
-	
-
-
 
 Dark Elf Foot Knight
 	Warriors Unit
