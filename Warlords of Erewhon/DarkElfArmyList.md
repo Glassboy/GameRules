@@ -48,7 +48,7 @@ Special: You must include one Dark Elf Noble unit in your warband either a Dark 
 | 1 x Dark Elf Noble with sword, medium armour on riding horse or scaly beast.    | 6    | 6    | 5    | 6(8) | 8    | 9    | Tough, Command, Follow, 3 x HtH, Wound|
 | 2 x Dark Elf Bodyguard with sword, medium armour on riding horse or scaly beast | 6    | 6    | 5    | 6(8) | 8    | 8    |                                       |
 | 0 x Riding Horse                                                                |      |      |      |      |      |      | Fast 8                                |
-| 0 x Scaly beast                                                                |      |      |      |      |      |      | Fast 6, 1x HtH SV1                    |
+| 0 x Scaly beast                                                                 |      |      |      |      |      |      | Fast 6, 1x HtH SV1                    |
 
 **Options**
   * Upgrade unit from horses to Scaly Beasts @2pts per model
@@ -142,10 +142,10 @@ Special: You can include a maximum of one Dark Elf Witch in your warband.
 Points Value: 132<BR>
 Special: You can include a maximum of one unit of Guard in your war band.  You can not include a unit of Guard if you have also fielded a unit of Dark Elf Death Dealer
 
-| Warriors Unit: Dark Elf Guard  | Ag   | Acc | Str | Res  | Init | Co  | Special                                       |
-|:-------------------------------------------- |:----:|:---:|:---:|:----:|:----:|:---:|:-------------------------------------------   |
-| 1 x Dark Elf Leader with halberd, spangly armour |  6   | 6   | 6   | 5(8)    | 8    | 9   | Tough, Spangly Armour|
-| 4 x Dark Elf Guard with halberd, spangly armour | 6 | 6 | 6 | 5(8) | 8 | 8 | Spangly Armour |
+| Warriors Unit: Dark Elf Guard                    | Ag   | Acc | Str | Res  | Init | Co  | Special               |
+|:-------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------------|
+| 1 x Dark Elf Leader with halberd, spangly armour |  6   | 6   | 6   | 5(8  | 8    | 9   | Tough, Spangly Armour |
+| 4 x Dark Elf Guard with halberd, spangly armour  | 6    | 6   | 6   | 5(8) | 8    | 8   | Spangly Armour        |
 
 **Options**
   * Give unit Haughty Disdain @ 10pts
