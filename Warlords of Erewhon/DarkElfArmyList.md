@@ -251,13 +251,13 @@ Points Value: 117<BR>
 ### Harpies
 Points Value: 150<BR>
 Special: You can include a maximum of one unit of Harpies in your warband.
-| Warriors Unit: Harpies | Ag   | Acc | Str | Res  | Init | Co  | Special         |
-|:-----------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
+| Warriors Unit: Harpies | Ag   | Acc | Str | Res  | Init | Co  | Special                                  |
+|:-----------------------|:----:|:---:|:---:|:----:|:----:|:---:|:-----------------------------------------|
 | 3 x Harpies with rocks | 10   | 5   | 5   | 5    | 9    | 9   | Flies, Fast 10, 2x HtH SV1, 1x Drops SV1 |
 
 
 **Options**
-  * 	Give unit Dead Eye Shote rule @10pts
+  * Give unit Dead Eye Shote rule @10pts
   * Give unit Vengeful Rule @1pt per model
   * Add up to 2 Harpies to unit @50pts each
 
