@@ -13,7 +13,7 @@ This list has primarily been designed to be used with the Dark Elves from the fo
 
 The Chronopia and Fantasy ranges from Heartbreaker Miniatures also have some Elves that would work well as Dark Elves.
 
-This Army List contains a standard Dark Elf list which should work with any manufacturer's range and a Demonologist sublist that is more appropriate for those ranges where Dark Elves are allied with daemons.
+<!--	 This Army List contains a standard Dark Elf list which should work with any manufacturer's range and a Demonologist sublist that is more appropriate for those ranges where Dark Elves are allied with daemons. -->
 
 ---
 
@@ -166,6 +166,21 @@ Special: You can include a maximum of one unit of Guard in your war band.  You c
   * Give unit Zealous @5pts per model
   * Add up to 5 Death Dealers @23pts per model
 
+### Dark Elf Termagant
+Points Value: 122<BR>
+Special: You can include a maximum of one Termagant unit in your war band unless the war band is led by a Harridan, in which case there is no limit.
+
+| Warriors Unit: Dark Elf Termagant            | Ag   | Acc | Str | Res  | Init | Co  | Special         |
+|:---------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
+| 1 x Dark Elf Leader with sword, light armour | 6    | 6   | 5   | 5(6) | 8    | 9   | Tough, Berserk  |
+| 4 x Termagant with sword, light armour       | 6    | 6   | 5   | 5(6) | 8    | 8   | Berserk         |
+
+**Options**
+  * Give unit Savage rule @1pt per model
+  * Give unit Haughty Disdain @ 10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 5 Termagant @ 22pts each
+
 ### Dark Foot Knights
 Points Value: 107<BR>
 
@@ -233,13 +248,29 @@ Points Value: 117<BR>
   * Give unit Zealous @5pts per model
   * Add up to 5 Scouts @21pts per model
 
+### Dark Elf Scouts
+Points Value: 117<BR>
+
+| Warriors Unit: Dark Elf Scouts                              | Ag   | Acc | Str | Res  | Init | Co  | Special         |
+|:------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
+| 1 x Dark Elf Leader with sword, crossbow, light armour      | 5    | 6   | 5   | 5(6) | 7    | 9   | Tough, Woodsman |
+| 4 x Dark Elf Scouts with sword, crossbow, light armour      | 5    | 6   | 5   | 5(6) | 7    | 8   | Woodsman        |
+
+**Options**
+  * Give unit Haughty Disdain @ 10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 5 Scouts @21pts per model
+
+
+
+
+
+
 
 
 
 
 <!--	
-
-
 
 Dark  Elf Termagant
 	Warriors Unit
