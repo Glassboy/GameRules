@@ -169,10 +169,10 @@ Special: You can include a maximum of one unit of Guard in your war band.  You c
 ### Dark Foot Knights
 Points Value: 107<BR>
 
-| Warriors Unit: Dark Elf Foot Knights                             | Ag   | Acc | Str | Res  | Init | Co  | Special         |
-|:-----------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
-| 1 x Dark Elf Leader with sword, crossbow, light armour           | 6    | 6   | 5   | 5(7) | 8    | 9   |  |
-| 4 x Dark Elf Crossbowmen with sword, crossbow, light armour      | 6    | 6   | 5   | 5(7) | 8    | 8   |        |
+| Warriors Unit: Dark Elf Foot Knights                | Ag   | Acc | Str | Res  | Init | Co  | Special  |
+|:----------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:---------|
+| Dark Elf Leader with sword, medium armour           | 6    | 6   | 5   | 5(7) | 8    | 9   | Tough    |
+| 4 x Dark elf foot knights with sword, medium armour | 6    | 6   | 5   | 5(7) | 8    | 8   |          |
 
 **Options**
   * Give unit Savage rule @1pt per model
@@ -184,10 +184,10 @@ Points Value: 107<BR>
 ### Dark Elf Warriors
 Points Value: 97<BR>
 
-| Warriors Unit: Dark Elf Warriors                        | Ag   | Acc | Str | Res  | Init | Co  | Special  |
-|:--------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:---------|
-| 1 x Dark Elf Leader with sword, light armour            | 6    | 6   | 5   | 5(6) | 8    | 9   |          |
-| 4 x Dark Elf sword with sword, light armour             | 6    | 6   | 5   | 5(6) | 8    | 8   |          |
+| Warriors Unit: Dark Elf Warriors              | Ag   | Acc | Str | Res  | Init | Co  | Special  |
+|:----------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:---------|
+| 1 x Dark Elf Leader with sword, light armour  | 6    | 6   | 5   | 5(6) | 8    | 9   |  Tough   |
+| 4 x Dark Elf warrior with sword, light armour | 6    | 6   | 5   | 5(6) | 8    | 8   |          |
 
 **Options**
   * Give unit Haughty Disdain @ 10pts
@@ -199,7 +199,7 @@ Points Value: 97<BR>
 
 | Warriors Unit: Dark Elf Spears                          | Ag   | Acc | Str | Res  | Init | Co  | Special  |
 |:--------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:---------|
-| 1 x Dark Elf Leader with long spear, light armour       | 6    | 6   | 5   | 5(6) | 8    | 9   |          |
+| 1 x Dark Elf Leader with long spear, light armour       | 6    | 6   | 5   | 5(6) | 8    | 9   | Tough    |
 | 4 x Dark Elf Spears  with long spear, light armour      | 6    | 6   | 5   | 5(6) | 8    | 8   |          |
 
 **Options**
@@ -210,10 +210,10 @@ Points Value: 97<BR>
 ### Dark Elf Crossbows
 Points Value: 117<BR>
 
-| Warriors Unit: Dark Elf Crossbows                                | Ag   | Acc | Str | Res  | Init | Co  | Special                                   |
-|:-----------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:------------------------------------------|
-| 1 x Dark Elf Leader with sword, heavy crossbow, light armour     | 5    | 6   | 5   | 5(6) | 7    | 9   | Tough, Fire order to shoot, heavily laden |
-| 4 x Dark Elf Crossbows  with sword, heavy crossbow, light armour | 5    | 6   | 5   | 5(6) | 7    | 8   | Fire order to shoot, heavily laden        |
+| Warriors Unit: Dark Elf Crossbows                               | Ag   | Acc | Str | Res  | Init | Co  | Special                                   |
+|:----------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:------------------------------------------|
+| 1 x Dark Elf Leader with sword, heavy crossbow, light armour    | 5    | 6   | 5   | 5(6) | 7    | 9   | Tough, Fire order to shoot, heavily laden |
+| 4 x Dark Elf Crossbow with sword, heavy crossbow, light armour  | 5    | 6   | 5   | 5(6) | 7    | 8   | Fire order to shoot, heavily laden        |
 
 **Options**
   * Give unit Haughty Disdain @ 10pts
@@ -223,10 +223,10 @@ Points Value: 117<BR>
 ### Dark Elf Scouts
 Points Value: 117<BR>
 
-| Warriors Unit: Dark Elf Scouts                                   | Ag   | Acc | Str | Res  | Init | Co  | Special         |
-|:-----------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
-| 1 x Dark Elf Leader with sword, crossbow, light armour           | 5    | 6   | 5   | 5(6) | 7    | 9   | Tough, Woodsman |
-| 4 x Dark Elf Crossbowmen with sword, crossbow, light armour      | 5    | 6   | 5   | 5(6) | 7    | 8   | Woodsman        |
+| Warriors Unit: Dark Elf Scouts                              | Ag   | Acc | Str | Res  | Init | Co  | Special         |
+|:------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
+| 1 x Dark Elf Leader with sword, crossbow, light armour      | 5    | 6   | 5   | 5(6) | 7    | 9   | Tough, Woodsman |
+| 4 x Dark Elf Scouts with sword, crossbow, light armour      | 5    | 6   | 5   | 5(6) | 7    | 8   | Woodsman        |
 
 **Options**
   * Give unit Haughty Disdain @ 10pts
