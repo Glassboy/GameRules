@@ -257,36 +257,27 @@ Special: You can include a maximum of one unit of Harpies in your warband.
 
 
 **Options**
-  * Give unit Dead Eye Shote rule @10pts
+  * Give unit Dead Eye Shot rule @10pts
   * Give unit Vengeful Rule @1pt per model
   * Add up to 2 Harpies to unit @50pts each
 
+### Dark Elf Scouts
+Points Value: 117<BR>
+
+| Warriors Unit: Dark Elf Scouts                    | Ag   | Acc | Str | Res  | Init | Co  | Special             |
+|:--------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:--------------------|
+| 1 x Dark Elf Beastmaster with sword, light armour | 6    | 6   | 5   | 5(6) | 8    | 9   | Tough, Rapid Sprint |
+| 4 x Chaos Hounds                                  | 5    | -   | 6   | 7 | 5    | 5   | Savage, Rapid Sprint, 1x HtH Sv1 |
+
+**Options**
+  * Give Beastmaster medium armour @2pts increasing Res to 5(7)
+  * Give Chaos Hounds Choking breath attacks @1pts per model
+  * Add up 5 Chaos Hounds @14pts each
+
+
+
 <!--	
-Harpies
-	Warriors Unit
-	Points Value: 
-	150
-	Special: You can include a maximum of one unit of Harpies in your warband.
-	Unit: Harpies
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	3 x Harpies with rocks
-	10
-	5
-	5
-	5
-	9
-	9
-	Flies, Fast 10, 2x HtH SV1, 1x Drops SV1
-	Options
-	* Give unit Dead Eye Shote rule @10pts
-* Give unit Vengeful Rule @1pt per model 
-	* Add up to 2 Harpies to unit @50pts each
+
 	
 
 Dark Elf Chaos Hounds
