@@ -196,6 +196,21 @@ Points Value: 107<BR>
   * Give unit Zealous @5pts per model
   * Add up to 5 foot knights @19pts per model
 
+### Dark Elf Mounted Knights
+Points Value: 99<BR>
+
+| Mounted Unit: Dark Elf Mounted Knights                               | Ag   | Acc | Str | Res  | Init | Co  | Special                  |
+|:---------------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:-------------------------|
+| 1 x Dark Elf Leader with sword, medium armour, on scaly beast        | 6    | 6   | 5   | 5(8) | 8    | 9   | Tough, Fast 6, 1xHtH SV1 |
+| 2 x Dark Elf Mounted Knight with sword, medium armour on scaly beast | 6    | 6   | 5   | 5(8) | 8    | 8   | Fast 6, 1xHtH SV1        |
+
+**Options**
+  * Give unit Savage rule @1pt per model
+  * Upgrade to Spangly armour @2 pts per model increasing Res to 5(9)
+  * Give unit Haughty Disdain @10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 5 mounted knights @29pts per mode
+
 ### Dark Elf Riders
 Points Value: 93<BR>
 
@@ -261,7 +276,7 @@ Points Value: 117<BR>
   * Give unit Zealous @5pts per model
   * Add up to 5 Scouts @21pts per model
 
-### Dark Mounted Scouts
+### Dark Elf Mounted Scouts
 Points Value: 102<BR>
 
 | Mounted Unit: Dark Elf Mounted Scouts                          | Ag   | Acc | Str | Res  | Init | Co  | Special         |
@@ -291,10 +306,10 @@ Special: You can include a maximum of one unit of Harpies in your warband.
 ### Dark Elf Chaos Hounds
 Points Value: 97<BR>
 
-| Warriors Unit: Dark Elf Scouts                    | Ag   | Acc | Str | Res  | Init | Co  | Special             |
+| Warriors/Beast Unit: Dark Elf Chaos Hounds        | Ag   | Acc | Str | Res  | Init | Co  | Special             |
 |:--------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:--------------------|
 | 1 x Dark Elf Beastmaster with sword, light armour | 6    | 6   | 5   | 5(6) | 8    | 9   | Tough, Rapid Sprint |
-| 4 x Chaos Hounds                                  | 5    | -   | 6   | 7 | 5    | 5   | Savage, Rapid Sprint, 1x HtH Sv1 |
+| 4 x Chaos Hounds                                  | 5    | -   | 6   | 7    | 5    | 5   | Savage, Rapid Sprint, 1x HtH Sv1 |
 
 **Options**
   * Give Beastmaster medium armour @2pts increasing Res to 5(7)
@@ -306,84 +321,6 @@ Points Value: 97<BR>
 <!--	
 
 
-
-
-Dark Elf Mounted Scouts
-	Mounted Unit
-	Points Value: 
-	102
-	
-
-	Unit: Dark Elf Mounted Scouts
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Leader with sword, crossbow, light armour
-	5
-	6
-	5
-	6(7)
-	7
-	9
-	Tough, Fast 8
-	2 x Dark Elf Scouts  with sword, crossbow, light armour
-	5
-	6
-	5
-	6(7)
-	7
-	8
-	Fast 8
-	Options
-	* Give unit Haughty Disdain @10pts
-* Give unit Zealous @5pts per model
-	* Add up to 2 Mounted Scouts @30pts per model
-	
-
-
-
-Dark Elf Mounted Knight
-	Mounted Unit
-	Points Value: 
-	99
-	
-
-	Unit: Dark Elf Mounted Knight
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Leader with sword, medium armour, on scaley beast
-	6
-	6
-	5
-	6(8)
-	8
-	9
-	Tough, Fast 6, 1xHtH SV1
-	2 x Dark Elf Mounted Knight with sword, medium armour on scaly beast
-	6
-	6
-	5
-	6(8)
-	8
-	8
-	Fast 6, 1xHtH SV
-	Options
-	* Give unit Savage rule @1pt per model
-* Upgrade to Spangly armour @2 pts per model increasing Res to 6(9)
-* Give unit Haughty Disdain @10pts
-
-
-	* Give unit Zealous @5pts per model
-* Add up to 5 foot knights @29pts per model
 	
 
 
