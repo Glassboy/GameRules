@@ -248,68 +248,20 @@ Points Value: 117<BR>
   * Give unit Zealous @5pts per model
   * Add up to 5 Scouts @21pts per model
 
-### Dark Elf Scouts
-Points Value: 117<BR>
+### Harpies
+Points Value: 150<BR>
+Special: You can include a maximum of one unit of Harpies in your warband.
+| Warriors Unit: Harpies | Ag   | Acc | Str | Res  | Init | Co  | Special         |
+|:-----------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
+| 3 x Harpies with rocks | 10   | 5   | 5   | 5    | 9    | 9   | Flies, Fast 10, 2x HtH SV1, 1x Drops SV1 |
 
-| Warriors Unit: Dark Elf Scouts                              | Ag   | Acc | Str | Res  | Init | Co  | Special         |
-|:------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
-| 1 x Dark Elf Leader with sword, crossbow, light armour      | 5    | 6   | 5   | 5(6) | 7    | 9   | Tough, Woodsman |
-| 4 x Dark Elf Scouts with sword, crossbow, light armour      | 5    | 6   | 5   | 5(6) | 7    | 8   | Woodsman        |
 
 **Options**
-  * Give unit Haughty Disdain @ 10pts
-  * Give unit Zealous @5pts per model
-  * Add up to 5 Scouts @21pts per model
-
-
-
-
-
-
-
-
-
+  * 	Give unit Dead Eye Shote rule @10pts
+  * Give unit Vengeful Rule @1pt per model
+  * Add up to 2 Harpies to unit @50pts each
 
 <!--	
-
-Dark  Elf Termagant
-	Warriors Unit
-	Points Value: 
-	122
-	Special: You can include a maximum of one Termagant unit in your war band unless the war band is led by a Harridan, in which case there is no limit.
-	Unit: Dark Elf Termagant
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Leader with sword, light armour
-	6
-	6
-	5
-	5(6)
-	8
-	8
-	Tough, Berserk
-	4 x Termagant with sword, light armour
-	6
-	6
-	5
-	5(6)
-	8
-	9
-	Berserk
-	Options
-	* Give unit Savage rule @1pt per model
-* Give unit Haughty Disdain @ 10pts
-* Give unit Zealous @ 5pts per model
-	* Add up to 5 Termagant @ 22pts each
-	
-
-
-
 Harpies
 	Warriors Unit
 	Points Value: 
