@@ -196,6 +196,19 @@ Points Value: 107<BR>
   * Give unit Zealous @5pts per model
   * Add up to 5 foot knights @19pts per model
 
+### Dark Elf Riders
+Points Value: 117<BR>
+
+| Mounted Unit: Dark Elf Scouts                     | Ag   | Acc | Str | Res  | Init | Co  | Special         |
+|:--------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
+| 1 x Dark Elf Leader with long spear, light armour | 5    | 6   | 5   | 5(7) | 8    | 9   | Tough, Fast 8"  |
+| 2 x Dark Elf Riders with long spear, light armour | 5    | 6   | 5   | 5(7) | 8    | 8   | Fast 8"         |
+
+**Options**
+  * Give unit Haughty Disdain @ 10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 2 Riders @27pts per model
+
 ### Dark Elf Warriors
 Points Value: 97<BR>
 
@@ -261,8 +274,8 @@ Special: You can include a maximum of one unit of Harpies in your warband.
   * Give unit Vengeful Rule @1pt per model
   * Add up to 2 Harpies to unit @50pts each
 
-### Dark Elf Scouts
-Points Value: 117<BR>
+### Dark Elf Chaos Hounds
+Points Value: 97<BR>
 
 | Warriors Unit: Dark Elf Scouts                    | Ag   | Acc | Str | Res  | Init | Co  | Special             |
 |:--------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:--------------------|
@@ -271,50 +284,12 @@ Points Value: 117<BR>
 
 **Options**
   * Give Beastmaster medium armour @2pts increasing Res to 5(7)
-  * Give Chaos Hounds Choking breath attacks @1pts per model
+  * Give Chaos Hounds Choking Breath attacks @1pts per model
   * Add up 5 Chaos Hounds @14pts each
 
 
 
 <!--	
-
-	
-
-Dark Elf Chaos Hounds
-	Warriors/Beast Unit
-	Points Value: 
-	97
-	
-
-	Unit: Dark Elf Chaos Hounds
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Beastmaster with sword, light armour
-	6
-	6
-	5
-	5(6)
-	8
-	9
-	Tough, Rapid Sprint
-	4 x Chaos Hounds
-	5
-	-
-	6
-	7
-	5
-	5
-	Savage, Rapid Sprint, 1x HtH Sv1
-	Options
-	* Give Beastmaster medium armour @2pts increasing Res to 5(7)
-* Give Chaos Hounds Choking breath attacks @1pts per model
-	* Add up 5 Chaos Hounds @14pts each
-	
 
 
 
