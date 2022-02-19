@@ -179,48 +179,21 @@ Points Value: 97<BR>
   * Give unit Zealous @5pts per model
   * Add up to 5 Warriors @17pts per model
 
+### Dark Elf Spears
+Points Value: 97<BR>
 
+| Warriors Unit: Dark Elf Warriors                        | Ag   | Acc | Str | Res  | Init | Co  | Special  |
+|:--------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:---------|
+| 1 x Dark Elf Leader with long spear, light armour       | 6    | 6   | 5   | 5(6) | 8    | 9   |          |
+| 4 x Dark Elf Spears  with long spear, light armour      | 6    | 6   | 5   | 5(6) | 8    | 8   |          |
+
+**Options**
+  * Give unit Haughty Disdain @ 10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 5 Spearmen @17pts per model
 
 
 <!--	
-
-
-Dark Elf Spears
-	Warriors Unit
-	Points Value: 
-	97
-	
-
-	Unit: Dark Elf Spears
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Leader with long spear, light armour
-	6
-	6
-	5
-	5(6)
-	8
-	9
-	Tough
-	4 x Dark Elf Spears  with long spear, light armour
-	6
-	6
-	5
-	5(6)
-	8
-	8
-	
-
-	Options
-	* Give unit Haughty Disdain @10pts
-* Give unit Zealous @5pts per model
-	* Add up to 5 Spearmen @17pts per model
-	
 
 
 
