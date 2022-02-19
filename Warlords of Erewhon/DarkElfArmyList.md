@@ -140,7 +140,7 @@ Special: You can include a maximum of one Dark Elf Witch in your warband.
 
 ### Dark Elf Guard
 Points Value: 132<BR>
-Special: You can include a maximum of one unit of Guard in your war band.  You can not include a unit of Guard if you have also fielded a unit of Dark Elf Death Dealer
+Special: You can include a maximum of one unit of Guard in your war band.  You can not include a unit of Guard if you have also fielded a unit of Dark Elf Death Dealers.
 
 | Warriors Unit: Dark Elf Guard                    | Ag   | Acc | Str | Res  | Init | Co  | Special               |
 |:-------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------------|
@@ -154,7 +154,7 @@ Special: You can include a maximum of one unit of Guard in your war band.  You c
 
 ### Death Dealers
 Points Value: 127<BR>
-Special: You can include a maximum of one unit of Guard in your war band.  You can not include a unit of Guard if you have also fielded a unit of Dark Elf Death Dealer.
+Special: You can include a maximum of one unit of Death Dealers in your war band.  You can not include a unit of Death Dealers if you have also fielded a unit of Dark Elf Guard.
 
 | Warriors Unit: Death Dealers                            | Ag   | Acc | Str | Res  | Init | Co  | Special               |
 |:--------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------------|
@@ -316,109 +316,16 @@ Points Value: 97<BR>
   * Give Chaos Hounds Choking Breath attacks @1pts per model
   * Add up 5 Chaos Hounds @14pts each
 
+### Dark Elf Chariot
+Points Value: 112<BR>
 
+| Chariot Unit: Dark Elf Chariot                                  | Ag   | Acc | Str | Res  | Init | Co  | Special                             |
+|:----------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:------------------------------------|
+| 1 x Dark Elf Chariot with Dark Elf crew pulled by 2 scaly beasts | 6    | -   | -   | 10   | -    | -   | Large, Irresistible Charge, Fast 6" |
+| 2 x Dark Elf crew with sword, crossbow                          | -    | 6   | 5   | -    | 8    | 9   |                                     |
+| 2 x Scaly Beasts                                                | -    | -   | 5   | -    | -    | -   | 1xHtH SV1                           |
 
-<!--	
-
-
-	
-
-
-
-
-
-Dark Elf Chariot
-	Chariot Unit
-	Points Value: 
-	112
-	
-
-	Unit: Dark Elf Chariot
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1x Dark Elf Chariot with Dark Elf crew pulled by 2 scaly beasts
-	6
-	-
-	-
-	10
-	-
-	-
-	Large Irresistible Charge, Fast 6
-	2 x Dark Elf crew with sword, crossbow
-	-
-	6
-	5
-	-
-	8
-	9
-	
-
-	2 x Scaley Beasts
-	-
-	-
-	5
-	-
-	-
-	-
-	1xHtH SV1
-	Options
-	* Give Elven crew spears @Free per model
-* Give chariot Scythes @25pts with D6 SV1 impact hits on charge
-	* Give Elven crew long spears @Free per model
-	
-
-________________
-Demonologist warband
-
-
-
-
-
-
-Daemonettes
-	Warriors Unit
-	Points Value: 
-	138
-	Special:  Daemonettes must be fielded in units of six
-	Unit: Daemonettes
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	6 x Daemonettes
-	5
-	5
-	6
-	6
-	7
-	7
-	HtH 2 SV 1 Savage
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	Options
-	* Give unit Vengeful Rule @ 1pt per model
-	*
-
--->
+**Options**
+  * Give Dark Elf crew spears @Free per model
+  * Give Dark Elf crew long spears @Free per model
+  * Give chariot Scythes @25pts with D6 SV1 impact hits on charge
