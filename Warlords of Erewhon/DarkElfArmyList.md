@@ -154,61 +154,35 @@ Special: You can include a maximum of one unit of Guard in your war band.  You c
 
 ### Death Dealers
 Points Value: 127<BR>
-Special: You can include a maximum of one unit of Guard in your war band.  You can not include a unit of Guard if you have also fielded a unit of Dark Elf Death Dealer
+Special: You can include a maximum of one unit of Guard in your war band.  You can not include a unit of Guard if you have also fielded a unit of Dark Elf Death Dealer.
 
-| Warriors Unit: Death Dealers  | Ag   | Acc | Str | Res  | Init | Co  | Special                                       |
-|:-------------------------------------------- |:----:|:---:|:---:|:----:|:----:|:---:|:-------------------------------------------   |
-| 1 x Dark Elf Leader with huge axe, spangly armour |  6   | 6   | 6   | 5(8)    | 8    | 9   | Tough, Spangly Armour|
-| 4 x Dark Elf Executioners with huge axe, spangly armour | 6 | 6 | 6 | 5(8) | 8 | 8 | Spangly Armour |
+| Warriors Unit: Death Dealers                            | Ag   | Acc | Str | Res  | Init | Co  | Special               |
+|:--------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------------|
+| 1 x Dark Elf Leader with huge axe, spangly armour       |  6   | 6   | 6   | 5(8) | 8    | 9   | Tough, Spangly Armour |
+| 4 x Dark Elf Executioners with huge axe, spangly armour | 6    | 6   | 6   | 5(8) | 8    | 8   | Spangly Armour        |
 
 **Options**
   * Give unit Haughty Disdain @ 10pts
   * Give unit Zealous @5pts per model
   * Add up to 5 Death Dealers @23pts per model
 
+### Dark Elf Warriors
+Points Value: 97<BR>
+
+| Warriors Unit: Dark Elf Warriors                        | Ag   | Acc | Str | Res  | Init | Co  | Special  |
+|:--------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:---------|
+| 1 x Dark Elf Leader with sword, light armour            | 6    | 6   | 5   | 5(6) | 8    | 9   |          |
+| 4 x Dark Elf sword with sword, light armour             | 6    | 6   | 5   | 5(6) | 8    | 8   |          |
+
+**Options**
+  * Give unit Haughty Disdain @ 10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 5 Warriors @17pts per model
+
+
+
 
 <!--	
-	
-
-
-
-Dark Elf Warriors
-	Warriors Unit
-	Points Value: 
-	97
-	
-
-	Unit: Dark Elf Warriors
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Leader with sword, light armour
-	6
-	6
-	5
-	5(6)
-	8
-	9
-	Tough
-	4 x Dark Elf sword with sword, light armour
-	6
-	6
-	5
-	5(6)
-	8
-	8
-	
-
-	Options
-	* Give unit Haughty Disdain @10pts
-* Give unit Zealous @5pts per model
-	* Add up to 5 Warriors @17pts per model
-	
-
 
 
 Dark Elf Spears
