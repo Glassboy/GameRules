@@ -166,6 +166,21 @@ Special: You can include a maximum of one unit of Guard in your war band.  You c
   * Give unit Zealous @5pts per model
   * Add up to 5 Death Dealers @23pts per model
 
+### Dark Foot Knights
+Points Value: 107<BR>
+
+| Warriors Unit: Dark Elf Foot Knights                             | Ag   | Acc | Str | Res  | Init | Co  | Special         |
+|:-----------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
+| 1 x Dark Elf Leader with sword, crossbow, light armour           | 6    | 6   | 5   | 5(7) | 8    | 9   |  |
+| 4 x Dark Elf Crossbowmen with sword, crossbow, light armour      | 6    | 6   | 5   | 5(7) | 8    | 8   |        |
+
+**Options**
+  * Give unit Savage rule @1pt per model
+  * Upgrade to Spangly armour @2 pts per model
+  * Give unit Haughty Disdain @10pts
+  * Give unit Zealous @5pts per model
+  * Add up to 5 foot knights @19pts per model
+
 ### Dark Elf Warriors
 Points Value: 97<BR>
 
@@ -208,7 +223,7 @@ Points Value: 117<BR>
 ### Dark Elf Scouts
 Points Value: 117<BR>
 
-| Warriors Unit: Dark Elf Crossbows                                | Ag   | Acc | Str | Res  | Init | Co  | Special         |
+| Warriors Unit: Dark Elf Scouts                                   | Ag   | Acc | Str | Res  | Init | Co  | Special         |
 |:-----------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:----------------|
 | 1 x Dark Elf Leader with sword, crossbow, light armour           | 5    | 6   | 5   | 5(6) | 7    | 9   | Tough, Woodsman |
 | 4 x Dark Elf Crossbowmen with sword, crossbow, light armour      | 5    | 6   | 5   | 5(6) | 7    | 8   | Woodsman        |
@@ -218,48 +233,11 @@ Points Value: 117<BR>
   * Give unit Zealous @5pts per model
   * Add up to 5 Scouts @21pts per model
 
+
+
+
+
 <!--	
-
-Dark Elf Foot Knight
-	Warriors Unit
-	Points Value: 
-	107
-	
-
-	Unit: Dark Elf Foot Knights
-	Ag
-	Acc
-	Str
-	Res
-	Init 
-	Co
-	Special
-	1 x Dark Elf Leader with sword, medium armour
-	6
-	6
-	5
-	5(7)
-	8
-	9
-	Tough
-	4 x Dark elf foot knights with sword, medium armour
-	6
-	6
-	5
-	5(7)
-	8
-	8
-	
-
-	Options
-	* Give unit Savage rule @1pt per model
-* Upgrade to Spangly armour @2 pts per model
-* Give unit Haughty Disdain @10pts
-
-
-	* Give unit Zealous @5pts per model
-* Add up to 5 foot knights @19pts per model
-	
 
 
 
