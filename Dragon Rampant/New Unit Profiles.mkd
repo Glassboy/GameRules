@@ -3,9 +3,11 @@
 To use field units such as Imperial Handgunners or Dwarf Thunderers add the Blackpowder [fantastical rule](Fantastical%20Rules.mkd) to existing missile unit profiles.
 
 ## War Machine Profiles
-A war machine functions in the same way as any other units, except for a few exceptions. 
+A war machine functions in the same way as any other units, except for a few exceptions.
+
 ### Firing Arc
 Once a war machine is deployed it is difficult to pivot or move quickly.  A war machine has a 90 degree firing arc measured from the front of its frame.  To change the firing arc the ballista must be limbered and moved with a Move action.
+
 ### Casualties
 Casualties are caused to the war machine’s crew not to the war machine itself.  The war machine will shoot with 12 dice if the crew is above half is starting strength, and 6 dice if at half strength or below.  By default a war machine has a crew of three.
 
