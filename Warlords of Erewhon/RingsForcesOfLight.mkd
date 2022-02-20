@@ -1,7 +1,4 @@
-% title
-% author(s) (separated by semicolons)
-% date
-
+[Author:  Robert Singers.]: # 
 ### Warriors of Minas Tirith
 Points Value: 92
 
