@@ -13,7 +13,7 @@ Special: You must include one, and one only, Dark Elf Harridan unit in your warb
 
 | Warlord Unit: Dark Elf Harridan                 | Ag   | Acc  | Str  | Res  | Init | Co   | Special                                         |
 |:------------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:------------------------------------------------|
-| 1 x Dark Elf Harridan with sword, light armour  | 6    | 6    | 5(6) | 5    | 8    | 9    | Tough 2, Command, Follow, Wound, Magic Level 1  |
+| 1 x Dark Elf Harridan with sword, light armour  | 6    | 6    | 5    | 5(6) | 8    | 9    | Tough 2, Command, Follow, Wound, Magic Level 1  |
 | 2 x Dark Elf Termagant with sword, light armour | 6    | 6    | 5    | 5(6) | 8    | 8    | Berserk                                         |
 
 **Options**
@@ -31,9 +31,9 @@ Special: You must include one, and one only, Dark Elf Harridan unit in your warb
 Points Value: 104<br>
 Special: You must include one, and one only, Dark Elf Harridan unit in your warband.  Either a Dark Elf Harridan or Mounted Dark Elf Harridan.
 
-| Warlord Unit: Dark Elf Harridan                | Ag   | Acc  | Str  | Res  | Init | Co   | Special                                         |
+| Mounted Warlord Unit: Dark Elf Harridan        | Ag   | Acc  | Str  | Res  | Init | Co   | Special                                         |
 |:-----------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:------------------------------------------------|
-| 1 x Dark Elf Harridan with sword, light armour | 6    | 6    | 5(7) | 5    | 8    | 9    | Tough 2, Command, Follow, Wound, Magic Level 1  |
+| 1 x Dark Elf Harridan with sword, light armour | 6    | 6    | 5    | 5(7) | 8    | 9    | Tough 2, Command, Follow, Wound, Magic Level 1  |
 | 1 x Dark Pegasus                               |      |      | 5    |      |      |      | Fast 8", Flying, 1x HtH SV1                     |
 
 **Options**
@@ -44,6 +44,19 @@ Special: You must include one, and one only, Dark Elf Harridan unit in your warb
   * Upgrade Harridan to Wounds 2 @12pts
   * Upgrade Harridan to Wounds 3 @24pts
   * Upgrade Harridan to Tough 3 @10pts
-  * Add up to 2 more Termagants @ 22pts each
   * Give unit Haughty Disdain @10pts
   * Give unit Zealous @5pts per model
+
+### Daemonettes
+Points Value: 138<br>
+Special:  Daemonettes must be fielded in units of six
+
+| Warrior Unit: Daemonettes | Ag   | Acc  | Str  | Res  | Init | Co   | Special            |
+|:--------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:-------------------|
+| 6 x Daemonettes           | 5    | 5    | 6    | 5    | 7    | 7    | HtH 2 SV 1 Savage  |
+
+** Options **
+Give unit Vengeful Rule @ 1pt per model
+
+
+
