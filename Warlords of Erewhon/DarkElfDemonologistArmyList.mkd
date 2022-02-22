@@ -55,7 +55,7 @@ Special:  Daemonettes must be fielded in units of six
 |:--------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:-------------------|
 | 6 x Daemonettes           | 5    | 5    | 6    | 5    | 7    | 7    | HtH 2 SV 1 Savage  |
 
-** Options **
+**Options**
 Give unit Vengeful Rule @ 1pt per model
 
 
