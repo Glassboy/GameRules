@@ -2,6 +2,7 @@
 Version  0.1<BR>
 Updated 11/05/2021
 
+## Preamble
 Whether they are called Shadow Elves, Dark Elves, Twilight Kin, or the Unseelie Court, evil faeries have been part of war gaming for a long time.
 
 This list has primarily been designed to be used with the Dark Elves from the following ranges
@@ -13,7 +14,7 @@ This list has primarily been designed to be used with the Dark Elves from the fo
 
 The Chronopia and Fantasy ranges from Heartbreaker Miniatures also have some Elves that would work well as Dark Elves.
 
-<!--	 This Army List contains a standard Dark Elf list which should work with any manufacturer's range and a Demonologist sublist that is more appropriate for those ranges where Dark Elves are allied with daemons. -->
+This Army List contains a standard Dark Elf list which should work with any manufacturer's range and a [Demonologist sublist](DarkElfDemonologistArmyList.mkd) that is more appropriate for those ranges where Dark Elves are allied with daemons.
 
 ---
 
