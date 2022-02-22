@@ -7,7 +7,7 @@
 
 ### Great Orc Mercenary Hero with bid axe or huge sword
 Points Value: 74<BR>
-Special: You can include a maximum of one Great Orc Mercenary Hero in your war band.  The Great Orc must replace your normal hero.
+Special: You can include a maximum of one Great Orc Mercenary Hero in your war band.  The Great Orc hero must replace your normal hero.
 
 | Warrior Unit: Great Orc Mercenary Hero    | Ag   | Acc | Str  | Res | Init | Co   | Special                     |
 |:------------------------------------------|:----:|:----|-----:|:---:|:----:|:----:|:----------------------------|
@@ -33,8 +33,8 @@ Special: You may include one unit of Great Orc Mercenaries in a Orc, Pig-Faced o
  * Add up to two more Great Orcs @27pts per model
 
 ### Great Orc / Ogre Mercenaries handgonners
-Points Value: 81<BR>
-Special: You may include one unit of Great Orc Mercenary handgonners in a Orc, Pig-Faced orc, or Goblin army (or any army you like really).  Their handgonnes are wielded as clubs in hand-to-hand.
+Points Value: 75<BR>
+Special: You may include one unit of Great Orc Mercenary handgonners in a Orc, Pig-Faced orc, or Goblin army (or any army you like really).  The handgonnes are so big they count as two ranged attacks, and the Great Orcs wield them as clubs in hand-to-hand.
 
 | Warrior Unit: Great Orc Mercenary Hero          | Ag   | Acc | Str  | Res | Init | Co   | Special                       |
 |:------------------------------------------------|:----:|:----|-----:|:---:|:----:|:----:|:------------------------------|
@@ -42,5 +42,7 @@ Special: You may include one unit of Great Orc Mercenary handgonners in a Orc, P
  * Replace Big Axes with Halberd @1pts
  * Replace Big Axes with Huge Swords 01pts
  * Add up to two more Great Orcs @27pts per model
+
+***NB:*** The rules for the huge handgonnes are experimental but I don't expect they will be unbalanced.
 
 
