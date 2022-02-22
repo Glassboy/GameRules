@@ -47,6 +47,12 @@ Special: You must include one, and one only, Dark Elf Harridan unit in your warb
   * Give unit Haughty Disdain @10pts
   * Give unit Zealous @5pts per model
 
+### Dark Elf Witch
+Dark Elf Witch as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-witch)
+
+### Dark Elf Witch on Scaly Beast
+Dark Elf Witch on Saly Beast as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-witch-on-scaly-beast)
+
 ### Daemonettes
 Points Value: 138<br>
 Special:  Daemonettes must be fielded in units of six
