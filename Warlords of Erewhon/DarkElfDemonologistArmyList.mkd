@@ -3,7 +3,7 @@ Version  0.1<BR>
 Updated 22/01/2022
 
 ## Preamble
-Some Dark Elf Witches become so powerful that they end up leading their own warbands.  These warbands are full of termagants and summoned daemons.
+Some Dark Elf Witches become so powerful that they end up leading their own warbands.  These warbands are generally full of termagants and summoned daemons who give no quarter in battle.  Any unit that can take *Vengeful* as special rule should to accurately reflect the fierce nature of the warband.
 
 ## Demonologist Warband
 
@@ -24,6 +24,7 @@ Special: You must include one, and one only, Dark Elf Harridan unit in your warb
   * Upgrade Harridan to Wounds 3 @24pts
   * Upgrade Harridan to Tough 3 @10pts
   * Add up to 2 more Termagants @ 22pts each
+  * Give unit Dread @ 10pts
   * Give unit Haughty Disdain @10pts
   * Give unit Zealous @5pts per model
 
@@ -62,11 +63,21 @@ Special:  Daemonettes must be fielded in units of six
 | 6 x Daemonettes           | 5    | 5    | 6    | 5    | 7    | 7    | HtH 2 SV 1 Savage  |
 
 **Options**
-  * Give unit Dread @ 1pt per model
+  * Give unit Dread @ 10pt per unit
   * Give unit Vengeful @ 1pt per model
 
 ### Dark Elf Termagant
 Termagants as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-termagant).
+
+
+### Dark Elf Warriors
+Dark Elf Warriors as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-warriors).
+
+### Dark Elf Spears
+Dark Elf Spears as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-spears).
+
+### Dark Elf Crossbows
+Dark Elf Crossbows as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-crossbows).
 
 ### Dark Elf Chaos Hounds
 Chaos Hounds as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-chaos-hounds)
