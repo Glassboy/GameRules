@@ -20,7 +20,7 @@ The Chronopia and Fantasy ranges from Heartbreaker Miniatures also have some Elv
 ## Standard Warband
 ### Dark Elf Noble
 Points Value: 118<BR>
-Special: You must include one Dark Elf Noble unit in your warband either a Dark Elf Noble or Mounted Mounted Dark Noble and one only.	
+Special: You must include one Dark Elf Noble unit in your warband either a Dark Elf Noble or Mounted Dark Elf Noble and one only.	
 
 | Warlord Warrior Unit: Dark Elf Noble             | Ag   | Acc | Str  | Res  | Init | Co   | Special                                |
 |:-------------------------------------------------|:----:|:----|-----:|:----:|:----:|:----:|:---------------------------------------|
@@ -41,7 +41,7 @@ NB: for a Dark Elf Noble mounted on a Dragon, take the Dark Elf Noble above with
 
 ### Mounted Dark Elf Noble
 Points Value: 134<BR>
-Special: You must include one Dark Elf Noble unit in your warband either a Dark Elf Noble or Mounted Mounted Dark Noble and one only. The unit can be mounted on either riding horses or scaly beasts.  Use the appropriate profile line.
+Special: You must include one Dark Elf Noble unit in your warband either a Dark Elf Noble or Mounted Dark Elf Noble and one only. The unit can be mounted on either riding horses or scaly beasts.  Use the appropriate profile line below.
 
 | Warlord Mounted Unit: Mounted Dark Elf Noble                                    | Ag   | Acc  | Str  | Res  | Init | Co   | Special                               |
 |:--------------------------------------------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:--------------------------------------|
