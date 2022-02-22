@@ -21,7 +21,7 @@ This Army List contains a standard Dark Elf list which should work with any manu
 ## Standard Warband
 ### Dark Elf Noble
 Points Value: 118<BR>
-Special: You must include one, and one only, Dark Elf Noble unit in your warband. Either a Dark Elf Noble or Mounted Dark Elf Noble.	
+Special: You must include one, and one only, Dark Elf Noble unit in your warband. Either a Dark Elf Noble or Mounted Dark Elf Noble.
 
 | Warlord Warrior Unit: Dark Elf Noble             | Ag   | Acc | Str  | Res  | Init | Co   | Special                                |
 |:-------------------------------------------------|:----:|:----|-----:|:----:|:----:|:----:|:---------------------------------------|
@@ -48,8 +48,8 @@ Special: You must include one, and one only, Dark Elf Noble unit in your warband
 |:--------------------------------------------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:--------------------------------------|
 | 1 x Dark Elf Noble with sword, medium armour on riding horse or scaly beast.    | 6    | 6    | 5    | 6(8) | 8    | 9    | Tough, Command, Follow, 3 x HtH, Wound|
 | 2 x Dark Elf Bodyguard with sword, medium armour on riding horse or scaly beast | 6    | 6    | 5    | 6(8) | 8    | 8    |                                       |
-| 0 x Riding Horse                                                                |      |      |      |      |      |      | Fast 8                                |
-| 0 x Scaly beast                                                                 |      |      |      |      |      |      | Fast 6, 1x HtH SV1                    |
+| 0 x Riding Horse                                                                |      |      | 5    |      |      |      | Fast 8"                                |
+| 0 x Scaly beast                                                                 |      |      | 5    |      |      |      | Fast 6", 1x HtH SV1                    |
 
 **Options**
   * Upgrade unit from horses to Scaly Beasts @2pts per model
@@ -87,8 +87,8 @@ Special: You can include a maximum of one Dark Elf Hero in your warband, either 
 | Mounted Unit: Mounted Dark Elf Hero        | Ag   | Acc | Str  | Res  | Init | Co   | Special                     |
 |:-------------------------------------------|:----:|:---:|:----:|:----:|:----:|:----:|:----------------------------|
 | 1 x Dark Elf Hero with sword, light armour | 6    | 6   | 5    | 6(7) | 8    | 9    | Tough 2, Hero, 3xHtH, Wound |
-| 0 x Riding Horse                           |      |     |      |      |      |      | Fast 8                      |
-| 0 x Scaly Beast                            |      |     |      |      |      |      | Fast 6, 1x HtH SV1          |
+| 0 x Riding Horse                           |      |     | 5    |      |      |      | Fast 8                      |
+| 0 x Scaly Beast                            |      |     | 5    |      |      |      | Fast 6, 1x HtH SV1          |
 
 **Options**
   * Upgrade hero to scaly beast @2pts
@@ -320,11 +320,11 @@ Points Value: 97<BR>
 ### Dark Elf Chariot
 Points Value: 112<BR>
 
-| Chariot Unit: Dark Elf Chariot                                  | Ag   | Acc | Str | Res  | Init | Co  | Special                             |
-|:----------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:------------------------------------|
+| Chariot Unit: Dark Elf Chariot                                   | Ag   | Acc | Str | Res  | Init | Co  | Special                             |
+|:-----------------------------------------------------------------|:----:|:---:|:---:|:----:|:----:|:---:|:------------------------------------|
 | 1 x Dark Elf Chariot with Dark Elf crew pulled by 2 scaly beasts | 6    | -   | -   | 10   | -    | -   | Large, Irresistible Charge, Fast 6" |
-| 2 x Dark Elf crew with sword, crossbow                          | -    | 6   | 5   | -    | 8    | 9   |                                     |
-| 2 x Scaly Beasts                                                | -    | -   | 5   | -    | -    | -   | 1xHtH SV1                           |
+| 2 x Dark Elf crew with sword, crossbow                           | -    | 6   | 5   | -    | 8    | 9   |                                     |
+| 2 x Scaly Beasts                                                 | -    | -   | 5   | -    | -    | -   | 1xHtH SV1                           |
 
 **Options**
   * Give Dark Elf crew spears @Free per model
