@@ -56,7 +56,17 @@ Special:  Daemonettes must be fielded in units of six
 | 6 x Daemonettes           | 5    | 5    | 6    | 5    | 7    | 7    | HtH 2 SV 1 Savage  |
 
 **Options**
-Give unit Vengeful Rule @ 1pt per model
+  * Give unit Dread @ 1pt per model
+  * Give unit Vengeful @ 1pt per model
+
+### Dark Elf Termagant
+Termagants as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-termagant).
+
+### Dark Elf Chaos Hounds
+Chaos Hounds as per the [Dark Elf army list]DarkElfArmyList.md#dark-elf-chaos-hounds
+
+
+
 
 
 
