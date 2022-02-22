@@ -89,10 +89,13 @@ Dark Elf Spears as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-spea
 ### Dark Elf Crossbows
 Dark Elf Crossbows as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-crossbows).
 
+### Harpies
+Harpies as per the [Dark Elf army list](DarkElfArmyList.md#harpies).
+
 ### Dark Elf Chaos Hounds
 Chaos Hounds as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-chaos-hounds)
 
-
+### Chaos Beast
 
 
 
