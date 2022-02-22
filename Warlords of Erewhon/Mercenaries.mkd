@@ -10,8 +10,47 @@ Special: You can include a maximum of one Great Orc Mercenary Hero in your war b
 | 1 x Great Orc Mercenary Hero with big axe |  5   | 5   | 6    | 6   | 8    | 8    | Tough 2, Hero, 3xHtH, Wound |
 
 **Options**
- * Give Large Axe with Halberd @1pts
- * Give Hero Big Axe @1pts
+ * Replace Big Axe with Halberd @1pts
+ * Replace Big Axe with Huge Swords 01pts
+ * Upgrade Hero to Wounds 2 @12pts
+ * Upgrade Hero to Wounds 3 @24pts
+ * Upgrade Hero to Tough 3 @10pts
+
+
+### Great Orc / Ogre Mercenaries
+Points Value: 81<BR>
+Special: You may include one unit of Great Orc Mercenaries in a Orc, Pig-Faced orc, or Goblin army (or any army you like really).
+
+| Warrior Unit: Great Orc Mercenary Hero    | Ag   | Acc | Str  | Res | Init | Co   | Special                     |
+|:------------------------------------------|:----:|:----|-----:|:---:|:----:|:----:|:----------------------------|
+| 3 x Great Orc Mercenaries with big axes   |  5   | 5   | 6    | 6   | 8    | 8    | 2xHtH                       |
+ * Replace Big Axes with Halberd @1pts
+ * Replace Big Axes with Huge Swords 01pts
+ * Add up to two more Great Orcs @27pts per model
+
+### Great Orc / Ogre Mercenaries handgonners
+Points Value: 81<BR>
+Special: You may include one unit of Great Orc Mercenary handgonners in a Orc, Pig-Faced orc, or Goblin army (or any army you like really).  Their handgonnes are wielded as clubs in hand-to-hand.
+
+| Warrior Unit: Great Orc Mercenary Hero          | Ag   | Acc | Str  | Res | Init | Co   | Special                       |
+|:------------------------------------------------|:----:|:----|-----:|:---:|:----:|:----:|:------------------------------|
+| 3 x Great Orc Mercenaries with huge handgonners |  5   | 5   | 6    | 6   | 8    | 8    | 2 x Ranged, 1x HtH SV0        |
+ * Replace Big Axes with Halberd @1pts
+ * Replace Big Axes with Huge Swords 01pts
+ * Add up to two more Great Orcs @27pts per model
+
+
+### Great Orc Mercenary Hero with large axe or sword
+Points Value: 74<BR>
+Special: You can include a maximum of one Great Orc Mercenary Hero in your war band.  The Great Orc must replace your normal hero.
+
+| Warrior Unit: Great Orc Mercenary Hero    | Ag   | Acc | Str  | Res | Init | Co   | Special                     |
+|:------------------------------------------|:----:|:----|-----:|:---:|:----:|:----:|:----------------------------|
+| 1 x Great Orc Mercenary Hero with big axe |  5   | 5   | 6    | 6   | 8    | 8    | Tough 2, Hero, 3xHtH, Wound |
+
+**Options**
+ * Replace Big Axe with Halberd @1pts
+ * Replace Big Axe with Huge Swords 01pts
  * Upgrade Hero to Wounds 2 @12pts
  * Upgrade Hero to Wounds 3 @24pts
  * Upgrade Hero to Tough 3 @10pts
