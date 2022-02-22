@@ -48,11 +48,21 @@ Special: You must include one, and one only, Dark Elf Harridan unit in your warb
   * Give unit Haughty Disdain @10pts
   * Give unit Zealous @5pts per model
 
+### Chaos Champion
+
+### Mounted Chaos Champion
+
 ### Dark Elf Witch
 Dark Elf Witch as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-witch)
 
 ### Dark Elf Witch on Scaly Beast
 Dark Elf Witch on Saly Beast as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-witch-on-scaly-beast)
+
+### Chaos Warriors
+Use [Barbarian Warriors](https://wargames91559202.files.wordpress.com/2021/05/erehwon-barbarians-warband-v2.1.pdf)
+
+### Mounted Chaos Warriors
+Use [Barbarian Horsemen](https://wargames91559202.files.wordpress.com/2021/05/erehwon-barbarians-warband-v2.1.pdf)
 
 ### Daemonettes
 Points Value: 138<br>
