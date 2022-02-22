@@ -39,9 +39,8 @@ Special: You may include one unit of Great Orc Mercenary handgonners in a Orc, P
 | Warrior Unit: Great Orc Mercenary Hero          | Ag   | Acc | Str  | Res | Init | Co   | Special                       |
 |:------------------------------------------------|:----:|:----|-----:|:---:|:----:|:----:|:------------------------------|
 | 3 x Great Orc Mercenaries with huge handgonners |  5   | 5   | 6    | 6   | 8    | 8    | 2 x Ranged, 1x HtH SV0        |
- * Replace Big Axes with Halberd @1pts
- * Replace Big Axes with Huge Swords 01pts
- * Add up to two more Great Orcs @27pts per model
+
+ * Add up to two more Great Orcs @25pts per model
 
 ***NB:*** The rules for the huge handgonnes are experimental but I don't expect they will be unbalanced.
 
