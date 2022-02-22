@@ -69,7 +69,7 @@ Special:  Daemonettes must be fielded in units of six
 Termagants as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-termagant).
 
 ### Dark Elf Chaos Hounds
-Chaos Hounds as per the [Dark Elf army list]DarkElfArmyList.md#dark-elf-chaos-hounds
+Chaos Hounds as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-chaos-hounds)
 
 
 
