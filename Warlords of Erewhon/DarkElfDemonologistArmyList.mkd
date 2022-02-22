@@ -2,18 +2,43 @@
 Version  0.1<BR>
 Updated 22/01/2022
 
+## Preamble
+Some Dark Elf Witches become so powerful that they end up leading their own warbands.  These warbands are full of termagants and summoned daemons.
+
+## Demonologist Warband
+
 ### Dark Elf Harridan
 Points Value: 138<br>
-Special: You must include one Dark Elf Harridan unit in your warband either a Dark Elf Harridan or Mounted Dark Elf Harridan and one only.
+Special: You must include one, and one only, Dark Elf Harridan unit in your warband.  Either a Dark Elf Harridan or Mounted Dark Elf Harridan.
 
 | Warlord Unit: Dark Elf Harridan                 | Ag   | Acc  | Str  | Res  | Init | Co   | Special                                         |
 |:------------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:------------------------------------------------|
 | 1 x Dark Elf Harridan with sword, light armour  | 6    | 6    | 5(6) | 5    | 8    | 9    | Tough 2, Command, Follow, Wound, Magic Level 1  |
 | 2 x Dark Elf Termagant with sword, light armour | 6    | 6    | 5    | 5(6) | 8    | 8    | Berserk                                         |
 
+**Options**
+  * Give Harridan a halberd @1pts
+  * Upgrade Harridan to Magic Level 2 @25pts
+  * Upgrade Harridan to Magic Level 3 @ 50pts
+  * Upgrade Harridan to Wounds 2 @12pts
+  * Upgrade Harridan to Wounds 3 @24pts
+  * Upgrade Harridan to Tough 3 @10pts
+  * Add up to 2 more Termagants @ 22pts each
+  * Give unit Haughty Disdain @10pts
+  * Give unit Zealous @5pts per model
+
+### Mounted Dark Elf Harridan
+Points Value: 104<br>
+Special: You must include one, and one only, Dark Elf Harridan unit in your warband.  Either a Dark Elf Harridan or Mounted Dark Elf Harridan.
+
+| Warlord Unit: Dark Elf Harridan                | Ag   | Acc  | Str  | Res  | Init | Co   | Special                                         |
+|:-----------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:------------------------------------------------|
+| 1 x Dark Elf Harridan with sword, light armour | 6    | 6    | 5(7) | 5    | 8    | 9    | Tough 2, Command, Follow, Wound, Magic Level 1  |
+| 1 x Dark Pegasus                               |      |      | 5    |      |      |      | Fast 8", Flying, 1x HtH SV1                     |
 
 **Options**
   * Give Harridan a halberd @1pts
+  * Give Dark Pegasus two hoof attacks @10pts for 3x HtH SV1
   * Upgrade Harridan to Magic Level 2 @25pts
   * Upgrade Harridan to Magic Level 3 @ 50pts
   * Upgrade Harridan to Wounds 2 @12pts
