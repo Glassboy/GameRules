@@ -3,7 +3,7 @@ Version  0.1<BR>
 Updated 22/01/2022
 
 ## Preamble
-Some Dark Elf Witches become so powerful that they end up leading their own warbands.  These warbands are generally full of termagants and summoned daemons who give no quarter in battle.  Any unit that can take *Vengeful* as special rule should to accurately reflect the fierce nature of the warband.
+Some Dark Elf Witches become so powerful that they end up leading their own warbands.  These warbands are generally full of termagants and summoned daemons who give no quarter in battle.
 
 ## Demonologist Warband
 
@@ -26,6 +26,7 @@ Special: You must include one, and one only, Dark Elf Harridan unit in your warb
   * Add up to 2 more Termagants @ 22pts each
   * Give unit Dread @ 10pts
   * Give unit Haughty Disdain @10pts
+  * Give unit Vengeful @1pt per model
   * Give unit Zealous @5pts per model
 
 ### Mounted Dark Elf Harridan
@@ -46,6 +47,7 @@ Special: You must include one, and one only, Dark Elf Harridan unit in your warb
   * Upgrade Harridan to Wounds 3 @24pts
   * Upgrade Harridan to Tough 3 @10pts
   * Give unit Haughty Disdain @10pts
+  * Give unit Vengeful @1pt per model 
   * Give unit Zealous @5pts per model
 
 ### Chaos Champion
@@ -55,14 +57,26 @@ Special: You must include one, and one only, Dark Elf Harridan unit in your warb
 ### Dark Elf Witch
 Dark Elf Witch as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-witch)
 
+**Additional Options**
+  * Give unit Vengeful @1pt per model
+
 ### Dark Elf Witch on Scaly Beast
-Dark Elf Witch on Saly Beast as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-witch-on-scaly-beast)
+Dark Elf Witch on Scaly Beast as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-witch-on-scaly-beast)
+
+**Additional Options**
+  * Give unit Vengeful @1pt per model
 
 ### Chaos Warriors
 Use [Barbarian Warriors](https://wargames91559202.files.wordpress.com/2021/05/erehwon-barbarians-warband-v2.1.pdf)
 
+**Additional Options**
+  * Give unit Vengeful @1pt per model
+
 ### Mounted Chaos Warriors
 Use [Barbarian Horsemen](https://wargames91559202.files.wordpress.com/2021/05/erehwon-barbarians-warband-v2.1.pdf)
+
+**Additional Options**
+  * Give unit Vengeful @1pt per model
 
 ### Daemonettes
 Points Value: 138<br>
@@ -79,15 +93,26 @@ Special:  Daemonettes must be fielded in units of six
 ### Dark Elf Termagant
 Termagants as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-termagant).
 
+**Additional Options**
+  * Give unit Vengeful @1pt per model
 
 ### Dark Elf Warriors
 Dark Elf Warriors as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-warriors).
 
+**Additional Options**
+  * Give unit Vengeful @1pt per model
+
 ### Dark Elf Spears
 Dark Elf Spears as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-spears).
 
+**Additional Options**
+  * Give unit Vengeful @1pt per model
+
 ### Dark Elf Crossbows
 Dark Elf Crossbows as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-crossbows).
+
+**Additional Options**
+  * Give unit Vengeful @1pt per model
 
 ### Harpies
 Harpies as per the [Dark Elf army list](DarkElfArmyList.md#harpies).
