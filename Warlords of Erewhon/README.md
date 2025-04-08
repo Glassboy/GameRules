@@ -5,3 +5,4 @@ To further my own gaming I've created a couple of new army lists
 
 * [Vikings](https://thisgaminglife.uk/tag/vikings/) (Dark Ages and Fantasy)
 * [Dark Elfs](DarkElfArmyList.md)
+* [Great Orc Mercenaries](GreatOrcMercenaries.mkd)
