@@ -22,7 +22,6 @@ Ballistas represent any form of bolt thrower or large missile weapon, or even a 
 | Courage  | 4+      | Maximum Movement    | 6"       |
 | Armour   | 2       | Strength Points     | 6        |
 
-
 **Special Rules**
 
 None
@@ -67,7 +66,6 @@ Organ guns are short range guns deployed to support infantry.  They fire grapesh
 | Courage  | 4+        | Maximum Movement   | 6"       |
 | Armour   | 2         | Strength Points    | 6        |
 
-
 **Special Rules**  
 None
 
@@ -77,7 +75,6 @@ None
 * Extra crew @ 1 point per unit:  The war machine has double the normal sized crew and is capable of attacking hand to hand.  The unit gains Attack 7+, Attack Value 5+.
 * Pavise @ 1 point per unit:  The warmachine is protected by pavises (these must be modelled).  Armour becomes 3 against shooting.
 * Any 'Fantastical Rules', except Spellcaster, Summoner, and Cleric/Slayer.
-
 
 ### Cannon
 Cannons  are large heavy long range artillery pieces.  They are difficult to move and must be manhandled into position.
@@ -114,7 +111,6 @@ The Flame cannon is a dangerous unstable invention that spews flames at the enem
 | Courage  | 4+          | Maximum Movement   | 6"      |
 | Armour   | 2           | Strength Points    | 6       |
 
-
 **Special Rules** 
 
 * **Flame Attack**:  The powerful gush of flames from this weapon does an attack that ignores 1 point of armour (Armour 4 becomes 3 etc).  It has a range of 12”
@@ -125,4 +121,3 @@ The Flame cannon is a dangerous unstable invention that spews flames at the enem
 * Engineer @ 2 pt per unit:  The war machine’s crew includes an engineer and the Shoot value of the unit increases to 3+.
 * Extra crew @ 1 point per unit:  The war machine has double the normal sized crew and is capable of attacking hand to hand.  The unit gains Attack 7+, Attack Value 5+.
 * Any 'Fantastical Rules', except Spellcaster, Summoner, and Cleric/Slayer.
-
