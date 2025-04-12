@@ -1,14 +1,12 @@
 # Hungary
-
-## Hungarian Vehicles and Guns
-
+## Theatre: Eastern front
+## Hungarian Vehicles, guns, and tanks
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Tanks and Artillery | Reflective Green (890) Camo Brown:  German Camo Medium Brown (826) Cam Ochre:  Green Ochre (914) |
 | German Supplied | Middlestone (882) |
 
 ## Hungarian Infantry
-
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Helmet  | Brown Violet (887) |

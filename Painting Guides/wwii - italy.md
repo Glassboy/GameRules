@@ -1,78 +1,84 @@
 # Italy
-## North Afrika
-### Black shirts
-|  Item | Vallejo model Colour |
-| :---- | :---- |
-| Shirts | Black (950) |
-| Trousers | As per theatre with Black (950) stripe |
-
-### Italian vehicles and Guns in North Afrika
-|  Item | Vallejo Model Colour |
+## Theatre: North Afrika
+### Italian vehicles, guns, and tanks
+| Item | Vallejo Model Colour |
 | :---- | :---- |
 | Tanks | Green Ochre (914) |
 | Guns | Green Ochre (914) |
 | Trucks | Green Ochre (914) |
 | Semovente 90/53 | German Field Grey (830), Beige Brown (875), Olive Grey (888) |
 | Camouflage | German Field Grey (830) |
-| Tank Crews | Dark Blue (930) overalls and Black (950) helmets |
 
-### Italian Infantry North Afrika
+### Tank Crew
+| Item | Vallejo Model Colour |
+| :---- | :---- |
+| Helmet | Black (950) |
+| Overalls | Dark Blue (930) |
+
+### Italian Infantry
 |  Item | Vallejo Model Colour |
 | :---- | :---- |
-| Helmet | Green Ochre (914) Alternative uniform German Field Grey (830) |
+| Helmet | Green Ochre (914)|
+| Cockerel feathers | Black (950) |
 | Faces and hands | Flat Flesh (955) |
-| Tunics | Desert Yellow (977) Alternative uniform Medium Sea Gray (870) |
-| Shirts | Alternative uniform Medium Sea Gray (870) |
-| Trousers | Desert Yellow (977) Alternative Uniform Medium Sea Gray (870) |
+| Uniform | Desert Yellow (977) |
 | Puttees | Olive Grey (888) |
+| Socks | Khaki (988) |
 | Boots | Beige Brown (875) |
 | Belts | Black (950) |
-| Webbing \\ Canvas | Yellow Green (881) or Khaki (884) |
+| Webbing, Canvas | Yellow Green (881) or Khaki (884) |
 | Great Coat | Officer’s Sahariana  Jackets Khaki (988) or Stone Grey (884) |
 
-## Italy and Sicily 
-### Italian Vehicles and Guns in Italy and Sicily
+### Alternative uniform (tropical fatigues)
 |  Item | Vallejo Model Colour |
 | :---- | :---- |
-| **Tanks** | German Field Grey (830) |
-| **Guns** | German Field Grey (830) |
-| **Trucks** | German Field Grey (830) |
-| **Camouflage** | Green Ochre (914) |
+| Helmet | German Field Grey (830) |
+| Uniform | Medium Sea Gray (870) |
 
-### Italian Infantry in Italy and Sicily
-|   | Italy & Sicily |
+### Black shirts
+|  Item | Vallejo model Colour |
+| :---- | :---- |
+| Shirts | Black (950) |
+| Trousers | As per theatre with Black (950) stripe |
+
+## Theatre: Italy and Sicily 
+### Italian Vehicles, guns, and tanks
+|  Item | Vallejo Model Colour |
+| :---- | :---- |
+| Tanks | German Field Grey (830) |
+| Guns | German Field Grey (830) |
+| Trucks | German Field Grey (830) |
+| Camouflage | Green Ochre (914) |
+
+### Italian infantry
+|  Item | Vallejo Model Colour |
 | :---- | :---- |
 | Helmet | German Field Grey (830) |
-| Faces and hands** | Flat Flesh (955) |
+| Faces and hands | Flat Flesh (955) |
 | Uniform | Olive Grey (888) |
+| Shirt | Green Grey (886) |
 | Puttees | Olive Grey (888) |
 | Boots | Beige Brown (875) |
 | Belts | Black (950) |
-| Webbing \\ Canvas | Khaki (884) |
+| Webbing, Canvas | Khaki (884) |
+| Rifle sling | Flat Brown (984) |
 
-## Eastern Front (Ostfront)
-
-| Vehicles and Guns |  |
+## Theatre: Eastern Front (Ostfront)
+### Italian Vehicles, guns, and tanks
+|  Item | Vallejo Model Colour |
 | :---- | :---- |
 | Tanks | Green Ochre (914) |
 | Guns | German Field Grey (830) |
 | Trucks | German Field Grey (830) |
-| Semovente 90/53 |  |
-| Camouflage |   |
-| Tank Crews |  |
-| Uniform |  |
-| Helmet |  |
 
-
-| Infantry |  |
+### Italian infantry
+|  Item | Vallejo Model Colour |
 | :---- | :---- |
 | Helmet | German Field Grey (830) |
 | Faces and hands | Flat Flesh (955) |
 | Tunics | Olive Grey (888) |
-| Shirts |   |
 | Trousers | Olive Grey (888) |
 | Belts | Black (950) |
-| Webbing \\ Canvas | Yellow Green (881) |
+| Webbing, Canvas | Yellow Green (881) |
 | Puttees | Olive Grey (888) |
 | Boots | Beige Brown (875) |
-| Great Coat |   |

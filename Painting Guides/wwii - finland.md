@@ -1,14 +1,12 @@
 # Finland
-
-## Finish equipment
-
+## Theatre: Eastern front
+### Finish equipment
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Captured Soviet Equipment | Russian Green (924) |
 | Finish Equipment | Stone Grey (884), Beige Brown (875), German Camo Bright Green (833) |
 
-## Finish Infantry
-
+### Finish Infantry
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Helmet | Brown Violet (887) |

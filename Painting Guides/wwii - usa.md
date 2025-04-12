@@ -1,7 +1,6 @@
 # United States of America
-
-## US Infantry Uniforms 1941
-
+## Theatre: all
+### US Infantry Uniforms 1941
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Helmet  | Brown Violet (887) |
@@ -13,14 +12,12 @@
 | Webbing | Khaki (988) |
 | Tropical uniform |  |
 
-## M1942 Camouflage Uniforms
-
+### M1942 Camouflage Uniforms
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Camo Uniform | Basecoat Green Grey (886) and highlight to Stone Grey (884).  Apply small irregular patches of Yellow Green (881).  Follow with small patches of Flat Earth (983) making sure there is a small amount of overlap. |
 
-## US Infantry Uniforms 1943
-
+### US Infantry Uniforms 1943
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Helmet  | Brown Violet (887) |

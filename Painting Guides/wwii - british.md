@@ -1,15 +1,17 @@
-# British
-
-## North Africa
-### British Tanks and Tankers
-
+# British Army in WWII
+## Theatre: North Africa
+### British Tanks
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Dark Disruptive | Brown Violet (887) with bands of German Camo Dark Green (979) |
 | Light Disruptive | Brown Violet (887) with ands Cruiser Tank Green (202)  |
+
+### British Tanker
+| Item | Vallejo Model Colour |
+| :---- | :---- |
 | Tanker “pixie suit” | Khaki (988) |
 
-### British Infantry in North Africa
+### British Infantry
 
 | Item | Vallejo Model Colour |
 | :---- | :---- |
@@ -21,9 +23,8 @@
 | Bayonet Scabbard, Boots | Black (950) |
 | Backpack, straps and webbing | Stone Grey (884) |
 
-## Europe
+## Theatre: Europe
 ### British Infantry Early War
-
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Helmet  | Brown Violet (887) |
@@ -34,7 +35,6 @@
 | Bayonet Scabbard, Boots | Black (950) |
 
 ### British Infantry Late War
-
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Helmet  | Russian Uniform (894) |
@@ -47,7 +47,6 @@
 | Backpack, straps and webbing | Khaki (988) |
 
 ### British Commando/SAS Uniform
-
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Helmet  | Reflective Green (890).  Paint straps Black (950) |
