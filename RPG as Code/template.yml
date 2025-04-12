@@ -1,0 +1,67 @@
+adventure:
+  title: "Adventure Title Here"
+  system: "RPG System Name (e.g., Savage Worlds)"
+  author: "Your Name or Creator"
+  genre: ["Fantasy", "Horror", "Sci-Fi"]           # Use multiple if needed
+  tone: "Tone (e.g., Light-hearted, Grim, Epic)"
+  estimated_runtime: "Estimated duration (e.g., 4 hours)"
+  player_count: 
+    min: 3
+    max: 6
+
+  synopsis: >
+    Write a short summary of the adventure's premise here.
+    Include major themes, stakes, or mysteries.
+
+  setup:
+    hook: "What gets the players involved in the story?"
+    player_roles: ["Role 1", "Role 2", "Role 3"]    # Optional predefined roles
+    entry_point: "How does the adventure begin?"
+    content_flags: ["Violence", "Horror", "Isolation"]   # For safety tools
+
+  tags:
+    session_type: "One-shot / Campaign intro / Drop-in"
+    danger_level: "Low / Medium / High"
+    playstyle: "Combat-heavy / Roleplay-focused / Investigation"
+    replayability: "High / Medium / Low"
+    gm_tools_required: ["Map", "Handouts", "VTT Tokens"]
+
+  scenes:
+    - name: "Scene 1 Title"
+      type: "Scene type (Exploration, Combat, Social, Puzzle)"
+      description: "Brief description of the scene"
+      npcs: ["Optional NPCs involved"]
+      enemies: ["Optional enemies, if combat"]
+      challenges:
+        - type: "Skill / Puzzle / Combat / Trap / Social"
+          name: "Challenge name or event"
+          mechanics: "Rule or TN to overcome"
+          success_effect: "What happens on success"
+          failure_effect: "What happens on failure"
+      clues:
+        - "Optional clues or information players might uncover"
+      special_rules: "Any custom mechanics or effects"
+
+  npcs:
+    - name: "NPC Name"
+      role: "Ally / Enemy / Neutral"
+      personality: "Key traits"
+      goals: "What they want"
+      secrets: "Optional hidden info"
+
+  locations:
+    - name: "Location Name"
+      description: "Short blurb about the location"
+      type: "Indoor / Outdoor / Dungeon / City / Wilderness"
+      tags: ["Trap-heavy", "Social hub", "Ruined", etc.]
+
+  rewards:
+    - "Item / Knowledge / Favor / Wealth"
+    - "Optional character advancement"
+
+  conclusion:
+    possible_endings:
+      - description: "Ending A description"
+        condition: "What causes this ending"
+      - description: "Ending B description"
+        condition: "Alternative resolution condition"
