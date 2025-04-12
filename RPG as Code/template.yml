@@ -54,6 +54,17 @@ adventure:
       description: "Short blurb about the location"
       type: "Indoor / Outdoor / Dungeon / City / Wilderness"
       tags: ["Trap-heavy", "Social hub", "Ruined", etc.]
+      items:
+      - id: "ancient_tome"
+        name: "Ancient Tome"
+        description: "A leather-bound book containing forgotten spells."
+        type: "Magic Item"
+        value: 150
+        properties:
+          weight: 2
+          magical: true
+        effects:
+          - "Grants +1 to Arcana checks when studied."
 
   rewards:
     - "Item / Knowledge / Favor / Wealth"
