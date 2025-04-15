@@ -45,11 +45,9 @@ Catapults represent any form of rock throwing device.  The crew are generally li
 | Armour   | 2        | Strength Points     | 6             |
 
 **Special Rules**
-
 * **Lobber**:  A catapult’s range starts a 6” from the front of the model and ends at 36”.  There are no penalties for long range.  The unit may ignore normal line of sight rules and fire at any unit, as long as one of the units in the army can see that enemy unit.
 
 **Options**
-
 * Engineer @ 2 pt per unit:  The war machine’s crew includes an engineer and the Shoot value of the unit increases to 3+.
 * Extra crew @ 1 point per unit:  The war machine has double the normal sized crew and is capable of attacking hand to hand.  The unit gains Attack 7+, Attack Value 5+
 * Pavise @ 1 point per unit:  The warmachine is protected by pavises (these must be modelled).  Armour becomes 3 against shooting.

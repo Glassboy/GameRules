@@ -1,16 +1,34 @@
 # United States of America
 ## Theatre: all
+
+### Vehicles and tanks
+| Item | Vallejo Model Colour |
+| :---- | :---- |
+| Vehicles | Brown Violet (887) |
+| **Camouflage** | |
+| Earth yellow | Dark Sand (847) |
+| Earth brown | USA Tan Earth (874) |
+| Earth red | Bige Brown (875) |
+| Black | Black (950) |
+
+### Equipment ###
+| Item | Vallejo Model Colour |
+| :---- | :---- |
+| Bazookas and mortars | Brown Violet (887) |
+
 ### US Infantry Uniforms 1941
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Helmet  | Brown Violet (887) |
 | Flesh | Flat Flesh |
-| Herringbone Twill fatigues | US Dark Green (893) |
 | Shirt | US Field Drab (873) |
 | Trousers | US Field Drab (873) |
 | Boots | Flat Brown (984) |
 | Webbing | Khaki (988) |
-| Tropical uniform |  |
+
+| Item | Vallejo Model Colour |
+| :---- | :---- |
+| Herringbone Twill fatigues | US Dark Green (893) |
 
 ### M1942 Camouflage Uniforms
 | Item | Vallejo Model Colour |
@@ -22,9 +40,8 @@
 | :---- | :---- |
 | Helmet  | Brown Violet (887) |
 | Flesh | Flat Flesh |
-| Herringbone Twill fatigues | US Dark Green (893) |
+| Jacket | Khaki (988) |
 | Shirt | 894 Russian Green (894) |
 | Trousers | US Field Drab (873) |
 | Boots | Flat Brown (984) |
 | Webbing | Green Grey (886) |
-| Tropical uniform |  |
