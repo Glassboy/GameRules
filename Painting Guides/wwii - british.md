@@ -12,7 +12,6 @@
 | Tanker “pixie suit” | Khaki (988) |
 
 ### British Infantry
-
 | Item | Vallejo Model Colour |
 | :---- | :---- |
 | Helmet  | Green Ochre (914) |
