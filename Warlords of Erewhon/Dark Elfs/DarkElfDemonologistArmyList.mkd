@@ -1,84 +1,103 @@
 # Dark Elf Demonologist Warband
-Version  0.1<BR>
+
+Version  0.1  
 Updated 22/01/2022
 
 ## Preamble
+
 Some Dark Elf Witches become so powerful that they end up leading their own warbands.  These warbands are generally full of termagants and summoned daemons who give no quarter in battle.
 
 ## Demonologist Warband
 
 ### Dark Elf Harridan
-Points Value: 138<br>
-Special: You must include one, and one only, Dark Elf Harridan unit in your warband.  Either a Dark Elf Harridan or Mounted Dark Elf Harridan.
+
+The Harridan is a figure shrouded in mystery and power, wielding dark sorcery and commanding an aura of fear and awe. Her cunning mind and unrelenting ambition drive her to shape the world around her, often blurring the lines between loyalty and treachery. She is a master of manipulation, capable of bending others to her will with charm and guile, while her mastery of forbidden magic ensures she is a force to be reckoned with. Her presence is both captivating and foreboding, embodying a blend of regal authority and arcane menace that leaves an indelible mark on all who encounter her.
+
+Points Value: 138  
+_Special: You must include one, and one only, Dark Elf Harridan unit in your warband.  Either a Dark Elf Harridan or Mounted Dark Elf Harridan._
 
 | Warlord Unit: Dark Elf Harridan                 | Ag   | Acc  | Str  | Res  | Init | Co   | Special                                         |
 |:------------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:------------------------------------------------|
 | 1 x Dark Elf Harridan with sword, light armour  | 6    | 6    | 5    | 5(6) | 8    | 9    | Tough 2, Command, Follow, Wound, Magic Level 1  |
 | 2 x Dark Elf Termagant with sword, light armour | 6    | 6    | 5    | 5(6) | 8    | 8    | Berserk                                         |
 
-**Options**
-  * Give Harridan a halberd @1pts
-  * Upgrade Harridan to Magic Level 2 @25pts
-  * Upgrade Harridan to Magic Level 3 @ 50pts
-  * Upgrade Harridan to Wounds 2 @12pts
-  * Upgrade Harridan to Wounds 3 @24pts
-  * Upgrade Harridan to Tough 3 @10pts
-  * Add up to 2 more Termagants @ 22pts each
-  * Give unit Dread @ 10pts
-  * Give unit Haughty Disdain @10pts
-  * Give unit Vengeful @1pt per model
-  * Give unit Zealous @5pts per model
+#### Options
+
+* Give Harridan a halberd @1pts
+* Upgrade Harridan to Magic Level 2 @25pts
+* Upgrade Harridan to Magic Level 3 @ 50pts
+* Upgrade Harridan to Wounds 2 @12pts
+* Upgrade Harridan to Wounds 3 @24pts
+* Upgrade Harridan to Tough 3 @10pts
+* Add up to 2 more Termagants @ 22pts each
+* Give unit Dread @ 10pts
+* Give unit Haughty Disdain @10pts
+* Give unit Vengeful @1pt per model
+* Give unit Zealous @5pts per model
 
 ### Mounted Dark Elf Harridan
-Points Value: 104<br>
-Special: You must include one, and one only, Dark Elf Harridan unit in your warband.  Either a Dark Elf Harridan or Mounted Dark Elf Harridan.
+
+As a Queen among Dark Elfs, the Harridan has access to the finest mounts available.  Most prefer the dark pegasus.
+
+Points Value: 104  
+_Special: You must include one, and one only, Dark Elf Harridan unit in your warband.  Either a Dark Elf Harridan or Mounted Dark Elf Harridan._
 
 | Mounted Warlord Unit: Dark Elf Harridan        | Ag   | Acc  | Str  | Res  | Init | Co   | Special                                         |
 |:-----------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:------------------------------------------------|
 | 1 x Dark Elf Harridan with sword, light armour | 6    | 6    | 5    | 5(7) | 8    | 9    | Tough 2, Command, Follow, Wound, Magic Level 1  |
 | 1 x Dark Pegasus                               |      |      | 5    |      |      |      | Fast 8", Flying, 1x HtH SV1                     |
 
-**Options**
-  * Give Harridan a halberd @1pts
-  * Give Dark Pegasus two hoof attacks @10pts for 3x HtH SV1
-  * Upgrade Harridan to Magic Level 2 @25pts
-  * Upgrade Harridan to Magic Level 3 @ 50pts
-  * Upgrade Harridan to Wounds 2 @12pts
-  * Upgrade Harridan to Wounds 3 @24pts
-  * Upgrade Harridan to Tough 3 @10pts
-  * Give unit Haughty Disdain @10pts
-  * Give unit Vengeful @1pt per model 
-  * Give unit Zealous @5pts per model
+#### Options
+
+* Give Harridan a halberd @1pts
+* Give Dark Pegasus two hoof attacks @10pts for 3x HtH SV1
+* Upgrade Harridan to Magic Level 2 @25pts
+* Upgrade Harridan to Magic Level 3 @ 50pts
+* Upgrade Harridan to Wounds 2 @12pts
+* Upgrade Harridan to Wounds 3 @24pts
+* Upgrade Harridan to Tough 3 @10pts
+* Give unit Haughty Disdain @10pts
+* Give unit Vengeful @1pt per model 
+* Give unit Zealous @5pts per model
 
 ### Chaos Champion
 
 ### Mounted Chaos Champion
 
 ### Dark Elf Witch
+
 Dark Elf Witch as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-witch)
 
-**Additional Options**
-  * Give unit Vengeful @1pt per model
+#### Additional Options
+
+* Give unit Vengeful @1pt per model
 
 ### Dark Elf Witch on Scaly Beast
+
 Dark Elf Witch on Scaly Beast as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-witch-on-scaly-beast)
 
-**Additional Options**
-  * Give unit Vengeful @1pt per model
+#### Additional Options
+
+* Give unit Vengeful @1pt per model
 
 ### Chaos Warriors
+
 Use [Barbarian Warriors](https://wargames91559202.files.wordpress.com/2021/05/erehwon-barbarians-warband-v2.1.pdf)
 
-**Additional Options**
+#### Additional Options
+
   * Give unit Vengeful @1pt per model
 
 ### Mounted Chaos Warriors
+
 Use [Barbarian Horsemen](https://wargames91559202.files.wordpress.com/2021/05/erehwon-barbarians-warband-v2.1.pdf)
 
-**Additional Options**
-  * Give unit Vengeful @1pt per model
+#### Additional Options
+
+* Give unit Vengeful @1pt per model
 
 ### Daemonettes
+
 Points Value: 138<br>
 Special:  Daemonettes must be fielded in units of six
 
@@ -86,42 +105,48 @@ Special:  Daemonettes must be fielded in units of six
 |:--------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:-------------------|
 | 6 x Daemonettes           | 5    | 5    | 6    | 5    | 7    | 7    | HtH 2 SV 1 Savage  |
 
-**Options**
-  * Give unit Dread @ 10pt per unit
-  * Give unit Vengeful @ 1pt per model
+#### Options
+ * Give unit Dread @ 10pt per unit
+ * Give unit Vengeful @ 1pt per model
 
 ### Dark Elf Termagant
+
 Termagants as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-termagant).
 
-**Additional Options**
-  * Give unit Vengeful @1pt per model
+#### Additional Options
+
+* Give unit Vengeful @1pt per model
 
 ### Dark Elf Warriors
+
 Dark Elf Warriors as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-warriors).
 
-**Additional Options**
-  * Give unit Vengeful @1pt per model
+#### Additional Options
+
+ * Give unit Vengeful @1pt per model
 
 ### Dark Elf Spears
+
 Dark Elf Spears as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-spears).
 
-**Additional Options**
-  * Give unit Vengeful @1pt per model
+#### Additional Options
+
+* Give unit Vengeful @1pt per model
 
 ### Dark Elf Crossbows
+
 Dark Elf Crossbows as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-crossbows).
 
-**Additional Options**
-  * Give unit Vengeful @1pt per model
+#### Additional Options
+
+* Give unit Vengeful @1pt per model
 
 ### Harpies
+
 Harpies as per the [Dark Elf army list](DarkElfArmyList.md#harpies).
 
 ### Dark Elf Chaos Hounds
+
 Chaos Hounds as per the [Dark Elf army list](DarkElfArmyList.md#dark-elf-chaos-hounds)
 
 ### Chaos Beast
-
-
-
-
