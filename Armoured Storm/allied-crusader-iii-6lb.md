@@ -1,0 +1,1 @@
+### Crusader III (6pdr) | Attribute | Value | |--------------------------|-------| | Speed | 2 | | Front armour | 5 | | Side armour | 3 | | Penetration @ range 1–4 | 9 | | Penetration @ range 5–9 | 8 | | Penetration @ range 10+ | 7 | | Special rules | Cruiser |
