@@ -1,7 +1,8 @@
 # World War II Painting Guides
-These are painting guides for WWII war games such as _Flames of War_ or _Bolt Action_.  They list the Vallejo Model Colour paints for each army.
-## Allied nations of World War II
 
+These are painting guides for WWII war games such as _Flames of War_ or _Bolt Action_.  They list the Vallejo Model Colour paints for each army.
+
+## Allied nations of World War II
 
 | Country                  | Alignment Period                          | Status / Notes                                                       |
 |--------------------------|-------------------------------------------|----------------------------------------------------------------------|
