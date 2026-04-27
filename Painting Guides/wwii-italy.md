@@ -22,11 +22,11 @@
 
 I asked Microsoft CoPilot to only use Italian language sources for the colours of WWII Italian armoured fighrting vehicles and match the results to RAl and FS codes and match those to Vallejo Model Colour and AK Interactive paints.
 
-| Color Name                   | Historical Use                       | RAL Code   | FS Code    | Vallejo Paints                        | AK Interactive Paints                                        |
-|------------------------------|--------------------------------------|------------|------------|----------------------------------------|-------------------------------------------------------------|
-| Grigio-Verde (Gray-Green)    | Early war base (L3/35, M11/39)       | RAL 7009   | FS 34159   | Olive Grey (888), German Field Grey (830) | AK 4033 Italian Green-Grey, AK 4034 Regio Esercito Green |
-| Giallo Sabbia (Desert Yellow)| North Africa campaign (M13/40)       | RAL 1002   | FS 33434   | Desert Yellow (977), Sand Yellow (71.028) | AK 4035 Italian Desert Yellow, AK 4036 Italian Sand Brown|
-| Sand Brown / Terracotta      | Disruptive pattern in desert schemes | RAL 8023   | FS 30117   | Sand Brown (71.034), Green Ochre (914) | AK 4037 Italian Brown, AK 4038 Italian Red Earth            |
+| Color Name                   | Historical Use                       | RAL Code   | FS Code    | Vallejo Paints                            | AK Interactive Paints                                        |
+|------------------------------|--------------------------------------|------------|------------|-------------------------------------------|--------------------------------------------------------------|
+| Grigio-Verde (Gray-Green)    | Early war base (L3/35, M11/39)       | RAL 7009   | FS 34159   | Olive Grey (888), German Field Grey (830) | AK 4033 Italian Green-Grey, AK 4034 Regio Esercito Green     |
+| Giallo Sabbia (Desert Yellow)| North Africa campaign (M13/40)       | RAL 1002   | FS 33434   | Desert Yellow (977), Sand Yellow (71.028) | AK 4035 Italian Desert Yellow, AK 4036 Italian Sand Brown    |
+| Sand Brown / Terracotta      | Disruptive pattern in desert schemes | RAL 8023   | FS 30117   | Sand Brown (71.034), Green Ochre (914)    | AK 4037 Italian Brown, AK 4038 Italian Red Earth             |
 
 ## Italian Infantry
 
