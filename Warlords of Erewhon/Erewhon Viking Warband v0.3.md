@@ -9,7 +9,7 @@ It's suggested that the majority of the warband consists of Bóndi and Thrall un
 
 While there have been graves found with female skeletons and weapons as grave goods, there is no evidence of entire units of trained female warriors so the Shieldmaidens unit can be found in the Fantasy section of the list.
 
-The list has been designed around the excellent Viking miniatures available from companies like 
+The list has been designed around the excellent Viking miniatures available from companies like
 
 * Wargames Foundry  
 * Artizan  
