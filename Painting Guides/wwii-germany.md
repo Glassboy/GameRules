@@ -30,15 +30,17 @@
 | Camouflage | German Grey (995) |
 
 ### Afrika korps infantry
-|  Item | Vallejo Model Colour |
-| :---- | :---- |
-| Helmet and gasmask tin (painted metal) | (1941-42) Green Brown (879) (1942-43)  Iraqui Sand (891) |
-| Faces and hands | Flat Flesh (955) |
-| Uniform | German Field Grey (830) |
-| Water bottle, entrenching tool and belts | Beige Brown (875) |
-| Boots | Beige Brown (875) with German Camo Beige (821) uppers |
-| Webbing | Stone Grey (884) |
-| SMG ammo pouches and bread bag | German Camo Beige (821) |
+
+|  Item                                    | Vallejo Model Colour                                  |
+| :--------------------------------------- | :---------------------------------------------------- |
+| Helmet and gasmask tin (painted metal)   | (1941-42) Green Brown (879)                           |
+|                                          | (1942-43) Iraqui Sand (891)                           |
+| Faces and hands                          | Flat Flesh (955)                                      |
+| Uniform                                  | Russian Uniform (924) or Yellow Green (881)           |
+| Water bottle, entrenching tool and belts | Beige Brown (875)                                     |
+| Boots                                    | Beige Brown (875) with German Camo Beige (821) uppers |
+| Webbing                                  | Stone Grey (884)                                      |
+| SMG ammo pouches and bread bag           | German Camo Beige (821)                               |
 
 ## Theatre: Ostfront
 ### German Vehicles, tanks, and guns
