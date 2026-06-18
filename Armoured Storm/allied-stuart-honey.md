@@ -1,0 +1,1 @@
+### Stuart (Honey) | Attribute | Value | |--------------------------|-------| | Speed | 3 | | Front armour | 4 | | Side armour | 3 | | Penetration @ range 1–4 | 5 | | Penetration @ range 5–9 | 4 | | Penetration @ range 10+ | 3 | | Special rules | — |

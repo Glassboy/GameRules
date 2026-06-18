@@ -1,0 +1,1 @@
+### Matilda II (2pdr) | Attribute | Value | |--------------------------|-------| | Speed | 1 | | Front armour | 9 | | Side armour | 5 | | Penetration @ range 1–4 | 6 | | Penetration @ range 5–9 | 4 | | Penetration @ range 10+ | 2 | | Special rules | — |

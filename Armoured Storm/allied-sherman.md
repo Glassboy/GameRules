@@ -1,0 +1,1 @@
+### Sherman | Attribute | Value | |--------------------------|-------| | Speed | 2 | | Front armour | 7 | | Side armour | 4 | | Penetration @ range 1–4 | 8 | | Penetration @ range 5–9 | 6 | | Penetration @ range 10+ | 5 | | Special rules | — |

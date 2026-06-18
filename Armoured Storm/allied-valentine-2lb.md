@@ -1,0 +1,1 @@
+| Attribute | Value | |--------------------------|-------| | Speed | 2 | | Front armour | 7 | | Side armour | 5 | | Penetration @ range 1–4 | 5 | | Penetration @ range 5–9 | 3 | | Penetration @ range 10+ | 2 | | Special rules | — |

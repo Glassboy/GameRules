@@ -1,4 +1,4 @@
-# **Vikings**
+# Vikings
 
 Version 0.3  
 Updated:  January 30th 2022
@@ -9,7 +9,7 @@ It's suggested that the majority of the warband consists of Bóndi and Thrall un
 
 While there have been graves found with female skeletons and weapons as grave goods, there is no evidence of entire units of trained female warriors so the Shieldmaidens unit can be found in the Fantasy section of the list.
 
-The list has been designed around the excellent Viking miniatures available from companies like 
+The list has been designed around the excellent Viking miniatures available from companies like
 
 * Wargames Foundry  
 * Artizan  
@@ -17,11 +17,11 @@ The list has been designed around the excellent Viking miniatures available from
 * Victrix  
 * Gripping Beast.
 
-# **Historical**
+## Historical
 
-| Hersir (Viking Chieftain) |  |  |  |  |  |  |  |
-| ----- | ----- | :---: | :---: | ----- | :---: | :---: | :---- |
-| Warlord Warriors Unit | Points Value: 99 |  |  |  |  |  |  |
+| Hersir (Viking Chieftain) |       |      |      |       |       |       |       |
+| ------------------------- | ----- |:----:|:----:| ----- | :---: | :---: | :---- |
+| Warlord Warriors Unit     | Points Value: 99 |  |  |  |  |  |  |
 | Special: You must include one Hersir or mounted Hersir in your war band and only one. |  |  |  |  |  |  |  |
 | Unit: Hersir | Ag | Acc | Str | Res | Init  | Co | Special |
 | 1 x Hersir (Chieftain) with sword or axe and medium armour | 5 | 5 | 5 | 5(7) | 8 | 8 | Command, Follow, Tough, Wound, 3 x HtH |
@@ -126,7 +126,7 @@ The list has been designed around the excellent Viking miniatures available from
 | Options |  |  |  |  |  |  |  |
 | Repace seax and frakka with a spear @ \-1pts per model. Add Surly @-1pts per model.  |  |  |  | Add up to 5  Warriors @11pts each |  |  |  |
 
-# **Fantasy**
+## Fantasy
 
 | Seiðr (Priest of Odin) |  |  |  |  |  |  |  |
 | ----- | ----- | :---: | :---: | ----- | :---: | :---: | :---- |
@@ -157,7 +157,7 @@ The list has been designed around the excellent Viking miniatures available from
 | Options |  |  |  |  |  |  |  |
 | Add up to 5 extra hounds @ 12pts each |  |  |  |  |  |  |  |
 
-# **Weapon and Special Rules Summary**
+## Weapon and Special Rules Summary
 
 |  | Range |  |  |  |  |
 | :---- | :---: | :---: | :---: | ----- | ----- |
